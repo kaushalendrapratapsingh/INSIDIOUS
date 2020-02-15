@@ -1,0 +1,294 @@
+[H[2J[94m[SET] target => cellstrat.com[0m
+[94m[SET] IP Address => 107.154.147.172[0m
+[94m[SET] target port => 443[0m
+[94m[SET] include => All Module[0m
+                                A_A
+                               (-.-)
+                               /   h 
+                              |     |   __ 
+                              |  || |  |  t__  
+                               t_|| /_/ 
+                    █████╗ ██████╗ ███████╗██╗   ██╗ 
+                   ██╔══██╗╚════██╗██╔════╝██║   ██║ 
+                   ███████║ █████╔╝███████╗██║   ██║ 
+                   ██╔══██║██╔═══╝ ╚════██║╚██╗ ██╔╝
+                   ██║  ██║███████╗███████║ ╚████╔╝ 
+                   ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  
+[94m               [Auto Scanning to SSL Vulnerability 1.6][0m
+[0;35m                     by HaHwul (www.hahwul.com)[0m
+________________________________________________________________________
+
+[92m[INF] Check the SSL..[0m
+[92m[RES] This target supports SSL..[0m
+[92m[INF] Scan Anonymous Cipher..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Connection success'
+[92m[INF] Scan CRIME(SPDY)..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Includes SPDY version <4'
+[92m[INF] Scan CCS Injection..[0m
+ - [LOG] TLSv1.2 107.154.147.172:443 may allow early CCS
+ - [LOG] [TLSv1.1] 107.154.147.172:443 Invalid handshake.
+ - [LOG] [TLSv1] 107.154.147.172:443 Invalid handshake.
+ - [LOG] [SSLv3] 107.154.147.172:443 Invalid handshake.
+[92m[INF] Scan HeartBleed..[0m
+ - [LOG] Sending Client Hello...
+ - [LOG] Waiting for Server Hello...
+[92m[INF] Scan SSLv3 POODLE..[0m
+ - [LOG] Invalid SSLv3 handshake.
+[92m[INF] Scan OpenSSL FREAK..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is EXP' not in Response
+[92m[INF] Scan OpenSSL LOGJAM..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is DEH' not in Response
+[92m[INF] Scan SSLv2 DROWN..[0m
+invalid literal for int() with base 16: ''
+[92m[RES] Finish scan all vulnerability..[0m
+_________________________________________________________________________
+                              [A2SV REPORT]                             
+[94m [TARGET]: 107.154.147.172[0m
+[94m [PORT]: 443[0m
+[94m [SCAN TIME]: 2020-02-15 10:37:34.014711[0m
+[91m [VULNERABILITY][0m
+Vulnerability    CVE           CVSS v2 Base Score         State          
+================ ============= ========================== ===============
+Anonymous Cipher CVE-2007-1858 AV:N/AC:H/Au:N/C:P/I:N/A:N Not Vulnerable.
+CRIME(SPDY)      CVE-2012-4929 AV:N/AC:H/Au:N/C:P/I:N/A:N Vulnerable!    
+HeartBleed       CVE-2014-0160 AV:N/AC:L/Au:N/C:P/I:N/A:N Not Vulnerable.
+CCS Injection    CVE-2014-0224 AV:N/AC:M/Au:N/C:P/I:P/A:P Vulnerable!    
+SSLv3 POODLE     CVE-2014-3566 AV:N/AC:M/Au:N/C:P/I:N/A:N Not Vulnerable.
+OpenSSL FREAK    CVE-2015-0204 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+OpenSSL LOGJAM   CVE-2015-4000 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+SSLv2 DROWN      CVE-2016-0800 AV:N/AC:M/Au:N/C:P/I:N/A:N Exception      
+_________________________________________________________________________
+[91m[FIN] Scan Finish![0m
+[94m[SET] target => musing-kalam-5194cc.netlify.com/[0m
+[94m[SET] target => musing-kalam-5194cc.netlify.com/[0m
+[H[2J[94m[SET] target => cellstrat.com[0m
+[94m[SET] IP Address => 107.154.147.172[0m
+[94m[SET] target port => 443[0m
+[94m[SET] include => All Module[0m
+                                A_A
+                               (-.-)
+                               /   h 
+                              |     |   __ 
+                              |  || |  |  t__  
+                               t_|| /_/ 
+                    █████╗ ██████╗ ███████╗██╗   ██╗ 
+                   ██╔══██╗╚════██╗██╔════╝██║   ██║ 
+                   ███████║ █████╔╝███████╗██║   ██║ 
+                   ██╔══██║██╔═══╝ ╚════██║╚██╗ ██╔╝
+                   ██║  ██║███████╗███████║ ╚████╔╝ 
+                   ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  
+[94m               [Auto Scanning to SSL Vulnerability 1.6][0m
+[0;35m                     by HaHwul (www.hahwul.com)[0m
+________________________________________________________________________
+
+[92m[INF] Check the SSL..[0m
+[92m[RES] This target supports SSL..[0m
+[92m[INF] Scan Anonymous Cipher..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Connection success'
+[92m[INF] Scan CRIME(SPDY)..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Includes SPDY version <4'
+[92m[INF] Scan CCS Injection..[0m
+ - [LOG] TLSv1.2 107.154.147.172:443 rejected early CCS
+ - [LOG] [TLSv1.1] 107.154.147.172:443 Invalid handshake.
+ - [LOG] [TLSv1] 107.154.147.172:443 Invalid handshake.
+ - [LOG] [SSLv3] 107.154.147.172:443 Invalid handshake.
+[92m[INF] Scan HeartBleed..[0m
+ - [LOG] Sending Client Hello...
+ - [LOG] Waiting for Server Hello...
+[92m[INF] Scan SSLv3 POODLE..[0m
+ - [LOG] Invalid SSLv3 handshake.
+[92m[INF] Scan OpenSSL FREAK..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is EXP' not in Response
+[92m[INF] Scan OpenSSL LOGJAM..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is DEH' not in Response
+[92m[INF] Scan SSLv2 DROWN..[0m
+invalid literal for int() with base 16: ''
+[92m[RES] Finish scan all vulnerability..[0m
+_________________________________________________________________________
+                              [A2SV REPORT]                             
+[94m [TARGET]: 107.154.147.172[0m
+[94m [PORT]: 443[0m
+[94m [SCAN TIME]: 2020-02-15 11:08:02.147888[0m
+[91m [VULNERABILITY][0m
+Vulnerability    CVE           CVSS v2 Base Score         State          
+================ ============= ========================== ===============
+Anonymous Cipher CVE-2007-1858 AV:N/AC:H/Au:N/C:P/I:N/A:N Not Vulnerable.
+CRIME(SPDY)      CVE-2012-4929 AV:N/AC:H/Au:N/C:P/I:N/A:N Vulnerable!    
+HeartBleed       CVE-2014-0160 AV:N/AC:L/Au:N/C:P/I:N/A:N Not Vulnerable.
+CCS Injection    CVE-2014-0224 AV:N/AC:M/Au:N/C:P/I:P/A:P Not Vulnerable.
+SSLv3 POODLE     CVE-2014-3566 AV:N/AC:M/Au:N/C:P/I:N/A:N Not Vulnerable.
+OpenSSL FREAK    CVE-2015-0204 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+OpenSSL LOGJAM   CVE-2015-4000 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+SSLv2 DROWN      CVE-2016-0800 AV:N/AC:M/Au:N/C:P/I:N/A:N Exception      
+_________________________________________________________________________
+[91m[FIN] Scan Finish![0m
+[H[2J[94m[SET] target => cellstrat.com[0m
+[94m[SET] IP Address => 45.60.97.172[0m
+[94m[SET] target port => 443[0m
+[94m[SET] include => All Module[0m
+                                A_A
+                               (-.-)
+                               /   h 
+                              |     |   __ 
+                              |  || |  |  t__  
+                               t_|| /_/ 
+                    █████╗ ██████╗ ███████╗██╗   ██╗ 
+                   ██╔══██╗╚════██╗██╔════╝██║   ██║ 
+                   ███████║ █████╔╝███████╗██║   ██║ 
+                   ██╔══██║██╔═══╝ ╚════██║╚██╗ ██╔╝
+                   ██║  ██║███████╗███████║ ╚████╔╝ 
+                   ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  
+[94m               [Auto Scanning to SSL Vulnerability 1.6][0m
+[0;35m                     by HaHwul (www.hahwul.com)[0m
+________________________________________________________________________
+
+[92m[INF] Check the SSL..[0m
+[92m[RES] This target supports SSL..[0m
+[92m[INF] Scan Anonymous Cipher..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Connection success'
+[92m[INF] Scan CRIME(SPDY)..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Includes SPDY version <4'
+[92m[INF] Scan CCS Injection..[0m
+ - [LOG] TLSv1.2 45.60.97.172:443 rejected early CCS
+ - [LOG] [TLSv1.1] 45.60.97.172:443 Invalid handshake.
+ - [LOG] [TLSv1] 45.60.97.172:443 Invalid handshake.
+ - [LOG] [SSLv3] 45.60.97.172:443 Invalid handshake.
+[92m[INF] Scan HeartBleed..[0m
+ - [LOG] Sending Client Hello...
+ - [LOG] Waiting for Server Hello...
+[92m[INF] Scan SSLv3 POODLE..[0m
+ - [LOG] Invalid SSLv3 handshake.
+[92m[INF] Scan OpenSSL FREAK..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is EXP' not in Response
+[92m[INF] Scan OpenSSL LOGJAM..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is DEH' not in Response
+[92m[INF] Scan SSLv2 DROWN..[0m
+invalid literal for int() with base 16: ''
+[92m[RES] Finish scan all vulnerability..[0m
+_________________________________________________________________________
+                              [A2SV REPORT]                             
+[94m [TARGET]: 45.60.97.172[0m
+[94m [PORT]: 443[0m
+[94m [SCAN TIME]: 2020-02-15 11:39:50.951312[0m
+[91m [VULNERABILITY][0m
+Vulnerability    CVE           CVSS v2 Base Score         State          
+================ ============= ========================== ===============
+Anonymous Cipher CVE-2007-1858 AV:N/AC:H/Au:N/C:P/I:N/A:N Not Vulnerable.
+CRIME(SPDY)      CVE-2012-4929 AV:N/AC:H/Au:N/C:P/I:N/A:N Vulnerable!    
+HeartBleed       CVE-2014-0160 AV:N/AC:L/Au:N/C:P/I:N/A:N Not Vulnerable.
+CCS Injection    CVE-2014-0224 AV:N/AC:M/Au:N/C:P/I:P/A:P Not Vulnerable.
+SSLv3 POODLE     CVE-2014-3566 AV:N/AC:M/Au:N/C:P/I:N/A:N Not Vulnerable.
+OpenSSL FREAK    CVE-2015-0204 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+OpenSSL LOGJAM   CVE-2015-4000 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+SSLv2 DROWN      CVE-2016-0800 AV:N/AC:M/Au:N/C:P/I:N/A:N Exception      
+_________________________________________________________________________
+[91m[FIN] Scan Finish![0m
+[H[2J[94m[SET] target => cellstrat.com[0m
+[94m[SET] IP Address => 45.60.97.172[0m
+[94m[SET] target port => 443[0m
+[94m[SET] include => All Module[0m
+                                A_A
+                               (-.-)
+                               /   h 
+                              |     |   __ 
+                              |  || |  |  t__  
+                               t_|| /_/ 
+                    █████╗ ██████╗ ███████╗██╗   ██╗ 
+                   ██╔══██╗╚════██╗██╔════╝██║   ██║ 
+                   ███████║ █████╔╝███████╗██║   ██║ 
+                   ██╔══██║██╔═══╝ ╚════██║╚██╗ ██╔╝
+                   ██║  ██║███████╗███████║ ╚████╔╝ 
+                   ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  
+[94m               [Auto Scanning to SSL Vulnerability 1.6][0m
+[0;35m                     by HaHwul (www.hahwul.com)[0m
+________________________________________________________________________
+
+[92m[INF] Check the SSL..[0m
+[92m[RES] This target supports SSL..[0m
+[92m[INF] Scan Anonymous Cipher..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Connection success'
+[92m[INF] Scan CRIME(SPDY)..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Includes SPDY version <4'
+[92m[INF] Scan CCS Injection..[0m
+ - [LOG] TLSv1.2 45.60.97.172:443 rejected early CCS
+ - [LOG] [TLSv1.1] 45.60.97.172:443 Invalid handshake.
+ - [LOG] [TLSv1] 45.60.97.172:443 Invalid handshake.
+ - [LOG] [SSLv3] 45.60.97.172:443 Invalid handshake.
+[92m[INF] Scan HeartBleed..[0m
+ - [LOG] Sending Client Hello...
+ - [LOG] Waiting for Server Hello...
+[92m[INF] Scan SSLv3 POODLE..[0m
+ - [LOG] Invalid SSLv3 handshake.
+[92m[INF] Scan OpenSSL FREAK..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is EXP' not in Response
+[92m[INF] Scan OpenSSL LOGJAM..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is DEH' not in Response
+[92m[INF] Scan SSLv2 DROWN..[0m
+invalid literal for int() with base 16: ''
+[92m[RES] Finish scan all vulnerability..[0m
+_________________________________________________________________________
+                              [A2SV REPORT]                             
+[94m [TARGET]: 45.60.97.172[0m
+[94m [PORT]: 443[0m
+[94m [SCAN TIME]: 2020-02-15 14:12:40.388991[0m
+[91m [VULNERABILITY][0m
+Vulnerability    CVE           CVSS v2 Base Score         State          
+================ ============= ========================== ===============
+Anonymous Cipher CVE-2007-1858 AV:N/AC:H/Au:N/C:P/I:N/A:N Not Vulnerable.
+CRIME(SPDY)      CVE-2012-4929 AV:N/AC:H/Au:N/C:P/I:N/A:N Vulnerable!    
+HeartBleed       CVE-2014-0160 AV:N/AC:L/Au:N/C:P/I:N/A:N Not Vulnerable.
+CCS Injection    CVE-2014-0224 AV:N/AC:M/Au:N/C:P/I:P/A:P Not Vulnerable.
+SSLv3 POODLE     CVE-2014-3566 AV:N/AC:M/Au:N/C:P/I:N/A:N Not Vulnerable.
+OpenSSL FREAK    CVE-2015-0204 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+OpenSSL LOGJAM   CVE-2015-4000 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+SSLv2 DROWN      CVE-2016-0800 AV:N/AC:M/Au:N/C:P/I:N/A:N Exception      
+_________________________________________________________________________
+[91m[FIN] Scan Finish![0m

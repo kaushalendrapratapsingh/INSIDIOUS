@@ -1,0 +1,33 @@
+cd
+cd Desktop/report 
+rm whois.txt
+rm nslookup.txt
+rm Nmap.txt
+rm harvester.txt
+rm meta.txt
+rm dnsrecon.txt
+rm sublist3r.txt
+rm wafw00f.txt
+rm XssPy.txt
+rm Whatweb.txt
+rm spaghetti.txt
+rm wpscan.txt
+rm wpscanner.txt
+rm wpdroopscan.txt
+rm wpseku.txt
+rm joomscan.txt
+rm jmdroopscan.txt
+rm sslscan.txt
+rm sslyze.txt
+rm nikto.txt
+rm wafbypass.txt
+rm drupal.txt
+rm silverstripe.txt
+rm moodle.txt
+rm u2sv.txt
+rm waffuzz.txt
+rm dirphp.txt
+rm dirasp.txt
+rm Full-Scan.txt
+cd
+cd Desktop/HACKPHORIA/INSIDIOUS

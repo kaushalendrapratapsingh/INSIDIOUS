@@ -1,0 +1,517 @@
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-02-14 23:54 IST
+Initiating Ping Scan at 23:54
+Scanning cellstrat.com (45.60.97.172) [4 ports]
+Completed Ping Scan at 23:54, 0.54s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 23:54
+Completed Parallel DNS resolution of 1 host. at 23:54, 0.29s elapsed
+Initiating SYN Stealth Scan at 23:54
+Scanning cellstrat.com (45.60.97.172) [1000 ports]
+Discovered open port 53/tcp on 45.60.97.172
+Discovered open port 443/tcp on 45.60.97.172
+Discovered open port 3389/tcp on 45.60.97.172
+Discovered open port 8080/tcp on 45.60.97.172
+Discovered open port 3306/tcp on 45.60.97.172
+Discovered open port 995/tcp on 45.60.97.172
+Discovered open port 587/tcp on 45.60.97.172
+Discovered open port 8888/tcp on 45.60.97.172
+Discovered open port 445/tcp on 45.60.97.172
+Discovered open port 5900/tcp on 45.60.97.172
+Discovered open port 25/tcp on 45.60.97.172
+Discovered open port 10002/tcp on 45.60.97.172
+Discovered open port 9998/tcp on 45.60.97.172
+Discovered open port 1025/tcp on 45.60.97.172
+Discovered open port 80/tcp on 45.60.97.172
+Discovered open port 8443/tcp on 45.60.97.172
+Discovered open port 3011/tcp on 45.60.97.172
+Discovered open port 6001/tcp on 45.60.97.172
+Discovered open port 3003/tcp on 45.60.97.172
+Discovered open port 16000/tcp on 45.60.97.172
+Discovered open port 5280/tcp on 45.60.97.172
+Discovered open port 9050/tcp on 45.60.97.172
+Discovered open port 5903/tcp on 45.60.97.172
+Discovered open port 3000/tcp on 45.60.97.172
+Discovered open port 8200/tcp on 45.60.97.172
+Discovered open port 9081/tcp on 45.60.97.172
+Discovered open port 8193/tcp on 45.60.97.172
+Discovered open port 3077/tcp on 45.60.97.172
+Discovered open port 5100/tcp on 45.60.97.172
+Discovered open port 9101/tcp on 45.60.97.172
+Discovered open port 4002/tcp on 45.60.97.172
+Discovered open port 3006/tcp on 45.60.97.172
+Discovered open port 4444/tcp on 45.60.97.172
+Discovered open port 8800/tcp on 45.60.97.172
+Discovered open port 3404/tcp on 45.60.97.172
+Discovered open port 8500/tcp on 45.60.97.172
+Discovered open port 2001/tcp on 45.60.97.172
+Discovered open port 8085/tcp on 45.60.97.172
+Discovered open port 6666/tcp on 45.60.97.172
+Discovered open port 7778/tcp on 45.60.97.172
+Discovered open port 7001/tcp on 45.60.97.172
+Discovered open port 18101/tcp on 45.60.97.172
+Discovered open port 7002/tcp on 45.60.97.172
+Discovered open port 1080/tcp on 45.60.97.172
+Discovered open port 5061/tcp on 45.60.97.172
+Discovered open port 9091/tcp on 45.60.97.172
+Discovered open port 8701/tcp on 45.60.97.172
+Discovered open port 85/tcp on 45.60.97.172
+Discovered open port 2049/tcp on 45.60.97.172
+Discovered open port 12265/tcp on 45.60.97.172
+Discovered open port 8873/tcp on 45.60.97.172
+Discovered open port 4445/tcp on 45.60.97.172
+Discovered open port 11110/tcp on 45.60.97.172
+Discovered open port 5999/tcp on 45.60.97.172
+Discovered open port 8021/tcp on 45.60.97.172
+Discovered open port 9000/tcp on 45.60.97.172
+Discovered open port 2100/tcp on 45.60.97.172
+Discovered open port 7070/tcp on 45.60.97.172
+Discovered open port 5001/tcp on 45.60.97.172
+Discovered open port 3017/tcp on 45.60.97.172
+Discovered open port 2020/tcp on 45.60.97.172
+Discovered open port 1455/tcp on 45.60.97.172
+Discovered open port 84/tcp on 45.60.97.172
+Discovered open port 636/tcp on 45.60.97.172
+Discovered open port 1028/tcp on 45.60.97.172
+Discovered open port 4000/tcp on 45.60.97.172
+Discovered open port 7004/tcp on 45.60.97.172
+Discovered open port 8099/tcp on 45.60.97.172
+Discovered open port 8009/tcp on 45.60.97.172
+Discovered open port 6002/tcp on 45.60.97.172
+Discovered open port 389/tcp on 45.60.97.172
+Discovered open port 3333/tcp on 45.60.97.172
+Discovered open port 9001/tcp on 45.60.97.172
+Discovered open port 9010/tcp on 45.60.97.172
+Discovered open port 10012/tcp on 45.60.97.172
+Discovered open port 1974/tcp on 45.60.97.172
+Discovered open port 7999/tcp on 45.60.97.172
+Discovered open port 8008/tcp on 45.60.97.172
+Discovered open port 5269/tcp on 45.60.97.172
+Discovered open port 843/tcp on 45.60.97.172
+Discovered open port 8180/tcp on 45.60.97.172
+Discovered open port 1002/tcp on 45.60.97.172
+Discovered open port 9207/tcp on 45.60.97.172
+Discovered open port 8002/tcp on 45.60.97.172
+Discovered open port 2000/tcp on 45.60.97.172
+Discovered open port 5988/tcp on 45.60.97.172
+Discovered open port 801/tcp on 45.60.97.172
+Discovered open port 6000/tcp on 45.60.97.172
+Discovered open port 8402/tcp on 45.60.97.172
+Discovered open port 8089/tcp on 45.60.97.172
+Discovered open port 800/tcp on 45.60.97.172
+Discovered open port 5987/tcp on 45.60.97.172
+Discovered open port 3013/tcp on 45.60.97.172
+Discovered open port 1024/tcp on 45.60.97.172
+Discovered open port 8084/tcp on 45.60.97.172
+Discovered open port 5060/tcp on 45.60.97.172
+Discovered open port 8093/tcp on 45.60.97.172
+Discovered open port 6543/tcp on 45.60.97.172
+Discovered open port 5226/tcp on 45.60.97.172
+Discovered open port 60443/tcp on 45.60.97.172
+Discovered open port 8031/tcp on 45.60.97.172
+Discovered open port 5000/tcp on 45.60.97.172
+Discovered open port 8100/tcp on 45.60.97.172
+Discovered open port 50001/tcp on 45.60.97.172
+Discovered open port 3580/tcp on 45.60.97.172
+Discovered open port 1984/tcp on 45.60.97.172
+Discovered open port 2068/tcp on 45.60.97.172
+Discovered open port 5002/tcp on 45.60.97.172
+Discovered open port 1494/tcp on 45.60.97.172
+Discovered open port 81/tcp on 45.60.97.172
+Discovered open port 8333/tcp on 45.60.97.172
+Discovered open port 5904/tcp on 45.60.97.172
+Discovered open port 6565/tcp on 45.60.97.172
+Discovered open port 6580/tcp on 45.60.97.172
+Discovered open port 4343/tcp on 45.60.97.172
+Discovered open port 7007/tcp on 45.60.97.172
+Discovered open port 9110/tcp on 45.60.97.172
+Discovered open port 9500/tcp on 45.60.97.172
+Discovered open port 9111/tcp on 45.60.97.172
+Discovered open port 1433/tcp on 45.60.97.172
+Discovered open port 6005/tcp on 45.60.97.172
+Discovered open port 10025/tcp on 45.60.97.172
+Discovered open port 20000/tcp on 45.60.97.172
+Discovered open port 16001/tcp on 45.60.97.172
+Discovered open port 6789/tcp on 45.60.97.172
+Discovered open port 8083/tcp on 45.60.97.172
+Discovered open port 1234/tcp on 45.60.97.172
+Discovered open port 8010/tcp on 45.60.97.172
+Discovered open port 5911/tcp on 45.60.97.172
+Discovered open port 82/tcp on 45.60.97.172
+Discovered open port 9200/tcp on 45.60.97.172
+Discovered open port 5222/tcp on 45.60.97.172
+Discovered open port 4001/tcp on 45.60.97.172
+Discovered open port 5225/tcp on 45.60.97.172
+Discovered open port 9099/tcp on 45.60.97.172
+Discovered open port 6009/tcp on 45.60.97.172
+Discovered open port 9003/tcp on 45.60.97.172
+Discovered open port 4443/tcp on 45.60.97.172
+Discovered open port 6007/tcp on 45.60.97.172
+Discovered open port 5440/tcp on 45.60.97.172
+Discovered open port 9002/tcp on 45.60.97.172
+Discovered open port 2065/tcp on 45.60.97.172
+Discovered open port 7000/tcp on 45.60.97.172
+Discovered open port 9103/tcp on 45.60.97.172
+Discovered open port 9040/tcp on 45.60.97.172
+Discovered open port 5907/tcp on 45.60.97.172
+Discovered open port 12345/tcp on 45.60.97.172
+Discovered open port 6779/tcp on 45.60.97.172
+Discovered open port 10003/tcp on 45.60.97.172
+Discovered open port 9009/tcp on 45.60.97.172
+Discovered open port 2557/tcp on 45.60.97.172
+Discovered open port 6003/tcp on 45.60.97.172
+Discovered open port 8181/tcp on 45.60.97.172
+Discovered open port 5120/tcp on 45.60.97.172
+Discovered open port 8090/tcp on 45.60.97.172
+Discovered open port 31337/tcp on 45.60.97.172
+Discovered open port 89/tcp on 45.60.97.172
+Discovered open port 555/tcp on 45.60.97.172
+Discovered open port 8194/tcp on 45.60.97.172
+Discovered open port 8081/tcp on 45.60.97.172
+Discovered open port 8000/tcp on 45.60.97.172
+Discovered open port 9220/tcp on 45.60.97.172
+Discovered open port 10000/tcp on 45.60.97.172
+Discovered open port 5009/tcp on 45.60.97.172
+Discovered open port 8192/tcp on 45.60.97.172
+Discovered open port 5902/tcp on 45.60.97.172
+Discovered open port 8383/tcp on 45.60.97.172
+Discovered open port 2006/tcp on 45.60.97.172
+Discovered open port 88/tcp on 45.60.97.172
+Discovered open port 9090/tcp on 45.60.97.172
+Discovered open port 5915/tcp on 45.60.97.172
+Discovered open port 5910/tcp on 45.60.97.172
+Discovered open port 55055/tcp on 45.60.97.172
+Discovered open port 8022/tcp on 45.60.97.172
+Discovered open port 9102/tcp on 45.60.97.172
+Discovered open port 8222/tcp on 45.60.97.172
+Discovered open port 18040/tcp on 45.60.97.172
+Discovered open port 9999/tcp on 45.60.97.172
+Discovered open port 15002/tcp on 45.60.97.172
+Discovered open port 50000/tcp on 45.60.97.172
+Discovered open port 990/tcp on 45.60.97.172
+Discovered open port 6100/tcp on 45.60.97.172
+Discovered open port 5555/tcp on 45.60.97.172
+Discovered open port 2048/tcp on 45.60.97.172
+Discovered open port 8042/tcp on 45.60.97.172
+Discovered open port 30000/tcp on 45.60.97.172
+Discovered open port 9080/tcp on 45.60.97.172
+Discovered open port 8088/tcp on 45.60.97.172
+Discovered open port 8011/tcp on 45.60.97.172
+Discovered open port 1971/tcp on 45.60.97.172
+Discovered open port 1935/tcp on 45.60.97.172
+Discovered open port 12174/tcp on 45.60.97.172
+Discovered open port 3030/tcp on 45.60.97.172
+Discovered open port 9011/tcp on 45.60.97.172
+Discovered open port 8007/tcp on 45.60.97.172
+Discovered open port 631/tcp on 45.60.97.172
+Discovered open port 777/tcp on 45.60.97.172
+Discovered open port 1972/tcp on 45.60.97.172
+Discovered open port 7777/tcp on 45.60.97.172
+Discovered open port 7443/tcp on 45.60.97.172
+Discovered open port 1000/tcp on 45.60.97.172
+Discovered open port 6510/tcp on 45.60.97.172
+Discovered open port 5004/tcp on 45.60.97.172
+Discovered open port 3071/tcp on 45.60.97.172
+Discovered open port 16016/tcp on 45.60.97.172
+Discovered open port 1111/tcp on 45.60.97.172
+Discovered open port 8045/tcp on 45.60.97.172
+Discovered open port 5901/tcp on 45.60.97.172
+Discovered open port 9100/tcp on 45.60.97.172
+Discovered open port 1443/tcp on 45.60.97.172
+Discovered open port 99/tcp on 45.60.97.172
+Discovered open port 2222/tcp on 45.60.97.172
+Discovered open port 8087/tcp on 45.60.97.172
+Discovered open port 5080/tcp on 45.60.97.172
+Discovered open port 444/tcp on 45.60.97.172
+Discovered open port 2200/tcp on 45.60.97.172
+Discovered open port 10009/tcp on 45.60.97.172
+Discovered open port 6006/tcp on 45.60.97.172
+Discovered open port 8086/tcp on 45.60.97.172
+Discovered open port 8001/tcp on 45.60.97.172
+Discovered open port 999/tcp on 45.60.97.172
+Discovered open port 10024/tcp on 45.60.97.172
+Discovered open port 3001/tcp on 45.60.97.172
+Discovered open port 8899/tcp on 45.60.97.172
+Discovered open port 8600/tcp on 45.60.97.172
+Discovered open port 3052/tcp on 45.60.97.172
+Discovered open port 8082/tcp on 45.60.97.172
+Discovered open port 5989/tcp on 45.60.97.172
+Discovered open port 5998/tcp on 45.60.97.172
+Discovered open port 5906/tcp on 45.60.97.172
+Discovered open port 5500/tcp on 45.60.97.172
+Discovered open port 3007/tcp on 45.60.97.172
+Discovered open port 90/tcp on 45.60.97.172
+Discovered open port 10004/tcp on 45.60.97.172
+Discovered open port 10010/tcp on 45.60.97.172
+Discovered open port 83/tcp on 45.60.97.172
+Discovered open port 10082/tcp on 45.60.97.172
+Discovered open port 3005/tcp on 45.60.97.172
+Discovered open port 10001/tcp on 45.60.97.172
+Discovered open port 5003/tcp on 45.60.97.172
+Discovered open port 4848/tcp on 45.60.97.172
+Discovered open port 5050/tcp on 45.60.97.172
+Discovered open port 6004/tcp on 45.60.97.172
+Discovered open port 888/tcp on 45.60.97.172
+Discovered open port 3551/tcp on 45.60.97.172
+Completed SYN Stealth Scan at 23:54, 30.00s elapsed (1000 total ports)
+Initiating OS detection (try #1) against cellstrat.com (45.60.97.172)
+Retrying OS detection (try #2) against cellstrat.com (45.60.97.172)
+Nmap scan report for cellstrat.com (45.60.97.172)
+Host is up (0.34s latency).
+Other addresses for cellstrat.com (not scanned): 107.154.147.172
+Not shown: 755 filtered ports
+PORT      STATE SERVICE
+25/tcp    open  smtp
+53/tcp    open  domain
+80/tcp    open  http
+81/tcp    open  hosts2-ns
+82/tcp    open  xfer
+83/tcp    open  mit-ml-dev
+84/tcp    open  ctf
+85/tcp    open  mit-ml-dev
+88/tcp    open  kerberos-sec
+89/tcp    open  su-mit-tg
+90/tcp    open  dnsix
+99/tcp    open  metagram
+389/tcp   open  ldap
+443/tcp   open  https
+444/tcp   open  snpp
+445/tcp   open  microsoft-ds
+555/tcp   open  dsf
+587/tcp   open  submission
+631/tcp   open  ipp
+636/tcp   open  ldapssl
+777/tcp   open  multiling-http
+800/tcp   open  mdbs_daemon
+801/tcp   open  device
+843/tcp   open  unknown
+888/tcp   open  accessbuilder
+990/tcp   open  ftps
+995/tcp   open  pop3s
+999/tcp   open  garcon
+1000/tcp  open  cadlock
+1002/tcp  open  windows-icfw
+1024/tcp  open  kdm
+1025/tcp  open  NFS-or-IIS
+1028/tcp  open  unknown
+1080/tcp  open  socks
+1111/tcp  open  lmsocialserver
+1234/tcp  open  hotline
+1433/tcp  open  ms-sql-s
+1443/tcp  open  ies-lm
+1455/tcp  open  esl-lm
+1494/tcp  open  citrix-ica
+1935/tcp  open  rtmp
+1971/tcp  open  netop-school
+1972/tcp  open  intersys-cache
+1974/tcp  open  drp
+1984/tcp  open  bigbrother
+2000/tcp  open  cisco-sccp
+2001/tcp  open  dc
+2006/tcp  open  invokator
+2020/tcp  open  xinupageserver
+2048/tcp  open  dls-monitor
+2049/tcp  open  nfs
+2065/tcp  open  dlsrpn
+2068/tcp  open  avocentkvm
+2100/tcp  open  amiganetfs
+2200/tcp  open  ici
+2222/tcp  open  EtherNetIP-1
+2557/tcp  open  nicetec-mgmt
+3000/tcp  open  ppp
+3001/tcp  open  nessus
+3003/tcp  open  cgms
+3005/tcp  open  deslogin
+3006/tcp  open  deslogind
+3007/tcp  open  lotusmtap
+3011/tcp  open  trusted-web
+3013/tcp  open  gilatskysurfer
+3017/tcp  open  event_listener
+3030/tcp  open  arepa-cas
+3052/tcp  open  powerchute
+3071/tcp  open  csd-mgmt-port
+3077/tcp  open  orbix-loc-ssl
+3306/tcp  open  mysql
+3333/tcp  open  dec-notes
+3389/tcp  open  ms-wbt-server
+3404/tcp  open  unknown
+3551/tcp  open  apcupsd
+3580/tcp  open  nati-svrloc
+4000/tcp  open  remoteanything
+4001/tcp  open  newoak
+4002/tcp  open  mlchat-proxy
+4343/tcp  open  unicall
+4443/tcp  open  pharos
+4444/tcp  open  krb524
+4445/tcp  open  upnotifyp
+4848/tcp  open  appserv-http
+5000/tcp  open  upnp
+5001/tcp  open  commplex-link
+5002/tcp  open  rfe
+5003/tcp  open  filemaker
+5004/tcp  open  avt-profile-1
+5009/tcp  open  airport-admin
+5050/tcp  open  mmcc
+5060/tcp  open  sip
+5061/tcp  open  sip-tls
+5080/tcp  open  onscreen
+5100/tcp  open  admd
+5120/tcp  open  barracuda-bbs
+5222/tcp  open  xmpp-client
+5225/tcp  open  hp-server
+5226/tcp  open  hp-status
+5269/tcp  open  xmpp-server
+5280/tcp  open  xmpp-bosh
+5440/tcp  open  unknown
+5500/tcp  open  hotline
+5555/tcp  open  freeciv
+5900/tcp  open  vnc
+5901/tcp  open  vnc-1
+5902/tcp  open  vnc-2
+5903/tcp  open  vnc-3
+5904/tcp  open  unknown
+5906/tcp  open  unknown
+5907/tcp  open  unknown
+5910/tcp  open  cm
+5911/tcp  open  cpdlc
+5915/tcp  open  unknown
+5987/tcp  open  wbem-rmi
+5988/tcp  open  wbem-http
+5989/tcp  open  wbem-https
+5998/tcp  open  ncd-diag
+5999/tcp  open  ncd-conf
+6000/tcp  open  X11
+6001/tcp  open  X11:1
+6002/tcp  open  X11:2
+6003/tcp  open  X11:3
+6004/tcp  open  X11:4
+6005/tcp  open  X11:5
+6006/tcp  open  X11:6
+6007/tcp  open  X11:7
+6009/tcp  open  X11:9
+6100/tcp  open  synchronet-db
+6510/tcp  open  mcer-port
+6543/tcp  open  mythtv
+6565/tcp  open  unknown
+6580/tcp  open  parsec-master
+6666/tcp  open  irc
+6779/tcp  open  unknown
+6789/tcp  open  ibm-db2-admin
+7000/tcp  open  afs3-fileserver
+7001/tcp  open  afs3-callback
+7002/tcp  open  afs3-prserver
+7004/tcp  open  afs3-kaserver
+7007/tcp  open  afs3-bos
+7070/tcp  open  realserver
+7443/tcp  open  oracleas-https
+7777/tcp  open  cbt
+7778/tcp  open  interwise
+7999/tcp  open  irdmi2
+8000/tcp  open  http-alt
+8001/tcp  open  vcom-tunnel
+8002/tcp  open  teradataordbms
+8007/tcp  open  ajp12
+8008/tcp  open  http
+8009/tcp  open  ajp13
+8010/tcp  open  xmpp
+8011/tcp  open  unknown
+8021/tcp  open  ftp-proxy
+8022/tcp  open  oa-system
+8031/tcp  open  unknown
+8042/tcp  open  fs-agent
+8045/tcp  open  unknown
+8080/tcp  open  http-proxy
+8081/tcp  open  blackice-icecap
+8082/tcp  open  blackice-alerts
+8083/tcp  open  us-srv
+8084/tcp  open  unknown
+8085/tcp  open  unknown
+8086/tcp  open  d-s-n
+8087/tcp  open  simplifymedia
+8088/tcp  open  radan-http
+8089/tcp  open  unknown
+8090/tcp  open  opsmessaging
+8093/tcp  open  unknown
+8099/tcp  open  unknown
+8100/tcp  open  xprint-server
+8180/tcp  open  unknown
+8181/tcp  open  intermapper
+8192/tcp  open  sophos
+8193/tcp  open  sophos
+8194/tcp  open  sophos
+8200/tcp  open  trivnet1
+8222/tcp  open  unknown
+8333/tcp  open  bitcoin
+8383/tcp  open  m2mservices
+8402/tcp  open  abarsd
+8443/tcp  open  https-alt
+8500/tcp  open  fmtp
+8600/tcp  open  asterix
+8701/tcp  open  unknown
+8800/tcp  open  sunwebadmin
+8873/tcp  open  dxspider
+8888/tcp  open  sun-answerbook
+8899/tcp  open  ospf-lite
+9000/tcp  open  cslistener
+9001/tcp  open  tor-orport
+9002/tcp  open  dynamid
+9003/tcp  open  unknown
+9009/tcp  open  pichat
+9010/tcp  open  sdr
+9011/tcp  open  d-star
+9040/tcp  open  tor-trans
+9050/tcp  open  tor-socks
+9080/tcp  open  glrpc
+9081/tcp  open  cisco-aqos
+9090/tcp  open  zeus-admin
+9091/tcp  open  xmltec-xmlmail
+9099/tcp  open  unknown
+9100/tcp  open  jetdirect
+9101/tcp  open  jetdirect
+9102/tcp  open  jetdirect
+9103/tcp  open  jetdirect
+9110/tcp  open  unknown
+9111/tcp  open  DragonIDSConsole
+9200/tcp  open  wap-wsp
+9207/tcp  open  wap-vcal-s
+9220/tcp  open  unknown
+9500/tcp  open  ismserver
+9998/tcp  open  distinct32
+9999/tcp  open  abyss
+10000/tcp open  snet-sensor-mgmt
+10001/tcp open  scp-config
+10002/tcp open  documentum
+10003/tcp open  documentum_s
+10004/tcp open  emcrmirccd
+10009/tcp open  swdtp-sv
+10010/tcp open  rxapi
+10012/tcp open  unknown
+10024/tcp open  unknown
+10025/tcp open  unknown
+10082/tcp open  amandaidx
+11110/tcp open  sgi-soap
+12174/tcp open  unknown
+12265/tcp open  unknown
+12345/tcp open  netbus
+15002/tcp open  onep-tls
+16000/tcp open  fmsas
+16001/tcp open  fmsascon
+16016/tcp open  unknown
+18040/tcp open  unknown
+18101/tcp open  unknown
+20000/tcp open  dnp
+30000/tcp open  ndmps
+31337/tcp open  Elite
+50000/tcp open  ibm-db2
+50001/tcp open  unknown
+55055/tcp open  unknown
+60443/tcp open  unknown
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+Uptime guess: 26.928 days (since Sun Jan 19 01:37:48 2020)
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+Read data files from: /usr/bin/../share/nmap
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 37.75 seconds
+           Raw packets sent: 2608 (119.864KB) | Rcvd: 268 (11.992KB)

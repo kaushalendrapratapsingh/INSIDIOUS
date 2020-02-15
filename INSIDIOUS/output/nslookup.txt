@@ -1,0 +1,73 @@
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 45.60.97.172
+Name:	cellstrat.com
+Address: 107.154.147.172
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 45.60.97.172
+Name:	cellstrat.com
+Address: 107.154.147.172
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 45.60.97.172
+Name:	cellstrat.com
+Address: 107.154.147.172
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+** server can't find musing-kalam-5194cc.netlify.com/: NXDOMAIN
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+** server can't find musing-kalam-5194cc.netlify.com/: NXDOMAIN
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 107.154.147.172
+Name:	cellstrat.com
+Address: 45.60.97.172
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 107.154.147.172
+Name:	cellstrat.com
+Address: 45.60.97.172
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 107.154.147.172
+Name:	cellstrat.com
+Address: 45.60.97.172
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 45.60.97.172
+Name:	cellstrat.com
+Address: 107.154.147.172
+

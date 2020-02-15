@@ -1,0 +1,238 @@
+[*] Performing General Enumeration of Domain: cellstrat.com
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[-] DNSSEC is not configured for cellstrat.com
+[*] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] 	 NS ns21.worldnic.com 207.204.40.111
+[*] 	 NS ns22.worldnic.com 207.204.21.111
+[*] 	 MX mx1.netsolmail.net 209.17.115.10
+[*] 	 A cellstrat.com 107.154.147.172
+[*] 	 A cellstrat.com 45.60.97.172
+[*] Enumerating SRV Records
+[-] No SRV Records Found for cellstrat.com
+[+] 0 Records Found
+[*] Performing Google Search Enumeration
+[-] Google has detected the search as 'bot activity, stopping search...
+[*] Performing General Enumeration of Domain: musing-kalam-5194cc.netlify.com/
+[*] Checking for Zone Transfer for musing-kalam-5194cc.netlify.com/ name servers
+[*] Resolving SOA Record
+[+] 	 SOA a.root-servers.net 198.41.0.4
+[*] Resolving NS Records
+[-] Could not Resolve NS Records
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 198.41.0.4
+[+] 198.41.0.4 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*] Checking for Zone Transfer for musing-kalam-5194cc.netlify.com/ name servers
+[*] Resolving SOA Record
+[+] 	 SOA a.root-servers.net 198.41.0.4
+[*] Resolving NS Records
+[-] Could not Resolve NS Records
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 198.41.0.4
+[+] 198.41.0.4 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[-] Could not resolve domain: musing-kalam-5194cc.netlify.com/
+[*] Performing General Enumeration of Domain: musing-kalam-5194cc.netlify.com/
+[*] Checking for Zone Transfer for musing-kalam-5194cc.netlify.com/ name servers
+[*] Resolving SOA Record
+[+] 	 SOA a.root-servers.net 198.41.0.4
+[*] Resolving NS Records
+[-] Could not Resolve NS Records
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 198.41.0.4
+[+] 198.41.0.4 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*] Checking for Zone Transfer for musing-kalam-5194cc.netlify.com/ name servers
+[*] Resolving SOA Record
+[+] 	 SOA a.root-servers.net 198.41.0.4
+[*] Resolving NS Records
+[-] Could not Resolve NS Records
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 198.41.0.4
+[+] 198.41.0.4 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: REFUSED
+[-] A timeout error occurred please make sure you can reach the target DNS Servers
+[-] directly and requests are not being filtered. Increase the timeout from 3.0 second
+[-] to a higher number with --lifetime <time> option.
+[*] Performing General Enumeration of Domain: cellstrat.com
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[-] DNSSEC is not configured for cellstrat.com
+[*] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] 	 NS ns22.worldnic.com 207.204.21.111
+[*] 	 NS ns21.worldnic.com 207.204.40.111
+[*] 	 MX mx1.netsolmail.net 209.17.115.10
+[*] 	 A cellstrat.com 107.154.147.172
+[*] 	 A cellstrat.com 45.60.97.172
+[*] Enumerating SRV Records
+[-] No SRV Records Found for cellstrat.com
+[+] 0 Records Found
+[*] Performing Google Search Enumeration
+[-] Google has detected the search as 'bot activity, stopping search...
+[*] Performing General Enumeration of Domain: cellstrat.com
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[-] DNSSEC is not configured for cellstrat.com
+[*] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] 	 NS ns21.worldnic.com 207.204.40.111
+[*] 	 NS ns22.worldnic.com 207.204.21.111
+[*] 	 MX mx1.netsolmail.net 209.17.115.10
+[*] 	 A cellstrat.com 45.60.97.172
+[*] 	 A cellstrat.com 107.154.147.172
+[*] Enumerating SRV Records
+[-] No SRV Records Found for cellstrat.com
+[+] 0 Records Found
+[*] Performing Google Search Enumeration
+[*] 	 CNAME www.cellstrat.com j5a9evx.sitelockcdn.net
+[*] 	 A j5a9evx.sitelockcdn.net 107.154.151.172
+[+] 2 Records Found
+[*] Performing General Enumeration of Domain: cellstrat.com
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[-] Error while resolving SOA record.
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] Removing any duplicate NS server IP Addresses...
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[-] Error while resolving SOA record.
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[-] DNSSEC is not configured for cellstrat.com
+[*] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] 	 NS ns21.worldnic.com 207.204.40.111
+[*] 	 NS ns22.worldnic.com 207.204.21.111
+[*] 	 MX mx1.netsolmail.net 209.17.115.10
+[*] 	 A cellstrat.com 45.60.97.172
+[*] 	 A cellstrat.com 107.154.147.172
+[*] Enumerating SRV Records
+[-] No SRV Records Found for cellstrat.com
+[+] 0 Records Found
+[*] Performing Google Search Enumeration
+[*] 	 CNAME www.cellstrat.com j5a9evx.sitelockcdn.net
+[*] 	 A j5a9evx.sitelockcdn.net 107.154.151.172
+[+] 2 Records Found

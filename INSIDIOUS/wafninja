@@ -1,0 +1,3 @@
+cd ToolPhoria/WAFNinja/ && python wafninja.py "$@"
+mv output.html /root/Desktop/report/result
+mv output1.html /root/Desktop/report/result

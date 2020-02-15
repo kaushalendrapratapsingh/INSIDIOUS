@@ -1,0 +1,36 @@
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	musing-kalam-5194cc.netlify.com
+Address: 157.230.37.202
+Name:	musing-kalam-5194cc.netlify.com
+Address: 2400:6180:0:d1::4df:d001
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	musing-kalam-5194cc.netlify.com
+Address: 157.230.43.191
+Name:	musing-kalam-5194cc.netlify.com
+Address: 2400:6180:0:d1::4d8:4001
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	musing-kalam-5194cc.netlify.com
+Address: 157.230.37.202
+Name:	musing-kalam-5194cc.netlify.com
+Address: 2400:6180:0:d1::575:a001
+
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	musing-kalam-5194cc.netlify.com
+Address: 206.189.89.118
+Name:	musing-kalam-5194cc.netlify.com
+Address: 2400:6180:0:d1::360:1001
+

@@ -1,0 +1,1028 @@
+   Domain Name: CELLSTRAT.COM
+   Registry Domain ID: 1373327532_DOMAIN_COM-VRSN
+   Registrar WHOIS Server: whois.networksolutions.com
+   Registrar URL: http://networksolutions.com
+   Updated Date: 2018-11-08T09:04:09Z
+   Creation Date: 2008-01-07T06:14:52Z
+   Registry Expiry Date: 2021-01-07T06:14:52Z
+   Registrar: Network Solutions, LLC
+   Registrar IANA ID: 2
+   Registrar Abuse Contact Email: abuse@web.com
+   Registrar Abuse Contact Phone: +1.8003337680
+   Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+   Name Server: NS21.WORLDNIC.COM
+   Name Server: NS22.WORLDNIC.COM
+   DNSSEC: unsigned
+   URL of the ICANN Whois Inaccuracy Complaint Form: https://www.icann.org/wicf/
+>>> Last update of whois database: 2020-02-14T18:25:09Z <<<
+
+For more information on Whois status codes, please visit https://icann.org/epp
+
+NOTICE: The expiration date displayed in this record is the date the
+registrar's sponsorship of the domain name registration in the registry is
+currently set to expire. This date does not necessarily reflect the expiration
+date of the domain name registrant's agreement with the sponsoring
+registrar.  Users may consult the sponsoring registrar's Whois database to
+view the registrar's reported date of expiration for this registration.
+
+TERMS OF USE: You are not authorized to access or query our Whois
+database through the use of electronic processes that are high-volume and
+automated except as reasonably necessary to register domain names or
+modify existing registrations; the Data in VeriSign Global Registry
+Services' ("VeriSign") Whois database is provided by VeriSign for
+information purposes only, and to assist persons in obtaining information
+about or related to a domain name registration record. VeriSign does not
+guarantee its accuracy. By submitting a Whois query, you agree to abide
+by the following terms of use: You agree that you may use this Data only
+for lawful purposes and that under no circumstances will you use this Data
+to: (1) allow, enable, or otherwise support the transmission of mass
+unsolicited, commercial advertising or solicitations via e-mail, telephone,
+or facsimile; or (2) enable high volume, automated, electronic processes
+that apply to VeriSign (or its computer systems). The compilation,
+repackaging, dissemination or other use of this Data is expressly
+prohibited without the prior written consent of VeriSign. You agree not to
+use electronic processes that are automated and high-volume to access or
+query the Whois database except as reasonably necessary to register
+domain names or modify existing registrations. VeriSign reserves the right
+to restrict your access to the Whois database in its sole discretion to ensure
+operational stability.  VeriSign may restrict or terminate your access to the
+Whois database for failure to abide by these terms of use. VeriSign
+reserves the right to modify these terms at any time.
+
+The Registry database contains ONLY .COM, .NET, .EDU domains and
+Registrars.
+Domain Name: CELLSTRAT.COM
+Registry Domain ID: 1373327532_DOMAIN_COM-VRSN
+Registrar WHOIS Server: whois.networksolutions.com
+Registrar URL: http://networksolutions.com
+Updated Date: 2018-11-08T09:04:21Z
+Creation Date: 2008-01-07T06:14:52Z
+Registrar Registration Expiration Date: 2021-01-07T06:14:52Z
+Registrar: Network Solutions, LLC
+Registrar IANA ID: 2
+Reseller: 
+Domain Status: clientTransferProhibited https://icann.org/epp#clientTransferProhibited
+Registry Registrant ID: 
+Registrant Name: Singhal, Vivek
+Registrant Organization: 
+Registrant Street: 1B-801, Clayton, Elan,
+Registrant City: Bangalore
+Registrant State/Province: Karnataka
+Registrant Postal Code: 560035
+Registrant Country: IN
+Registrant Phone: +91 9742800566
+Registrant Phone Ext: 
+Registrant Fax: 
+Registrant Fax Ext: 
+Registrant Email: vsinghalus@gmail.com
+Registry Admin ID: 
+Admin Name: Singhal, Vivek
+Admin Organization: 
+Admin Street: 1B-801, Clayton, Elan,
+Admin City: Bangalore
+Admin State/Province: Karnataka
+Admin Postal Code: 560035
+Admin Country: IN
+Admin Phone: +91 9742800566
+Admin Phone Ext: 
+Admin Fax: 
+Admin Fax Ext: 
+Admin Email: vsinghalus@gmail.com
+Registry Tech ID: 
+Tech Name: Singhal, Vivek
+Tech Organization: 
+Tech Street: 1B-801, Clayton, Elan,
+Tech City: Bangalore
+Tech State/Province: Karnataka
+Tech Postal Code: 560035
+Tech Country: IN
+Tech Phone: +91 9742800566
+Tech Phone Ext: 
+Tech Fax: 
+Tech Fax Ext: 
+Tech Email: vsinghalus@gmail.com
+Name Server: NS21.WORLDNIC.COM
+Name Server: NS22.WORLDNIC.COM
+DNSSEC: unsigned
+Registrar Abuse Contact Email: abuse@web.com
+Registrar Abuse Contact Phone: +1.8003337680
+URL of the ICANN WHOIS Data Problem Reporting System: http://wdprs.internic.net/
+>>> Last update of WHOIS database: 2020-02-14T18:25:25Z <<<
+
+For more information on Whois status codes, please visit https: //www.icann.org/resources/pages/epp-status-codes-2014-06-16-en
+
+
+The data in Networksolutions.com's WHOIS database is provided to you by
+Networksolutions.com for information purposes only, that is, to assist you in
+obtaining information about or related to a domain name registration
+record. Networksolutions.com makes this information available "as is," and
+does not guarantee its accuracy. By submitting a WHOIS query, you
+agree that you will use this data only for lawful purposes and that,
+under no circumstances will you use this data to: (1) allow, enable,
+or otherwise support the transmission of mass unsolicited, commercial
+advertising or solicitations via direct mail, electronic mail, or by
+telephone; or (2) enable high volume, automated, electronic processes
+that apply to Networksolutions.com  (or its systems). The compilation,
+repackaging, dissemination or other use of this data is expressly
+prohibited without the prior written consent of Networksolutions.com.
+Networksolutions.com reserves the right to modify these terms at any time.
+By submitting this query, you agree to abide by these terms.
+
+For more information on Whois status codes, please visit
+https: //www.icann.org/resources/pages/epp-status-codes-2014-06-16-en.
+Server:		192.168.43.1
+Address:	192.168.43.1#53
+
+Non-authoritative answer:
+Name:	cellstrat.com
+Address: 45.60.97.172
+Name:	cellstrat.com
+Address: 107.154.147.172
+
+Starting Nmap 7.80 ( https://nmap.org ) at 2020-02-14 23:54 IST
+Initiating Ping Scan at 23:54
+Scanning cellstrat.com (45.60.97.172) [4 ports]
+Completed Ping Scan at 23:54, 0.54s elapsed (1 total hosts)
+Initiating Parallel DNS resolution of 1 host. at 23:54
+Completed Parallel DNS resolution of 1 host. at 23:54, 0.29s elapsed
+Initiating SYN Stealth Scan at 23:54
+Scanning cellstrat.com (45.60.97.172) [1000 ports]
+Discovered open port 53/tcp on 45.60.97.172
+Discovered open port 443/tcp on 45.60.97.172
+Discovered open port 3389/tcp on 45.60.97.172
+Discovered open port 8080/tcp on 45.60.97.172
+Discovered open port 3306/tcp on 45.60.97.172
+Discovered open port 995/tcp on 45.60.97.172
+Discovered open port 587/tcp on 45.60.97.172
+Discovered open port 8888/tcp on 45.60.97.172
+Discovered open port 445/tcp on 45.60.97.172
+Discovered open port 5900/tcp on 45.60.97.172
+Discovered open port 25/tcp on 45.60.97.172
+Discovered open port 10002/tcp on 45.60.97.172
+Discovered open port 9998/tcp on 45.60.97.172
+Discovered open port 1025/tcp on 45.60.97.172
+Discovered open port 80/tcp on 45.60.97.172
+Discovered open port 8443/tcp on 45.60.97.172
+Discovered open port 3011/tcp on 45.60.97.172
+Discovered open port 6001/tcp on 45.60.97.172
+Discovered open port 3003/tcp on 45.60.97.172
+Discovered open port 16000/tcp on 45.60.97.172
+Discovered open port 5280/tcp on 45.60.97.172
+Discovered open port 9050/tcp on 45.60.97.172
+Discovered open port 5903/tcp on 45.60.97.172
+Discovered open port 3000/tcp on 45.60.97.172
+Discovered open port 8200/tcp on 45.60.97.172
+Discovered open port 9081/tcp on 45.60.97.172
+Discovered open port 8193/tcp on 45.60.97.172
+Discovered open port 3077/tcp on 45.60.97.172
+Discovered open port 5100/tcp on 45.60.97.172
+Discovered open port 9101/tcp on 45.60.97.172
+Discovered open port 4002/tcp on 45.60.97.172
+Discovered open port 3006/tcp on 45.60.97.172
+Discovered open port 4444/tcp on 45.60.97.172
+Discovered open port 8800/tcp on 45.60.97.172
+Discovered open port 3404/tcp on 45.60.97.172
+Discovered open port 8500/tcp on 45.60.97.172
+Discovered open port 2001/tcp on 45.60.97.172
+Discovered open port 8085/tcp on 45.60.97.172
+Discovered open port 6666/tcp on 45.60.97.172
+Discovered open port 7778/tcp on 45.60.97.172
+Discovered open port 7001/tcp on 45.60.97.172
+Discovered open port 18101/tcp on 45.60.97.172
+Discovered open port 7002/tcp on 45.60.97.172
+Discovered open port 1080/tcp on 45.60.97.172
+Discovered open port 5061/tcp on 45.60.97.172
+Discovered open port 9091/tcp on 45.60.97.172
+Discovered open port 8701/tcp on 45.60.97.172
+Discovered open port 85/tcp on 45.60.97.172
+Discovered open port 2049/tcp on 45.60.97.172
+Discovered open port 12265/tcp on 45.60.97.172
+Discovered open port 8873/tcp on 45.60.97.172
+Discovered open port 4445/tcp on 45.60.97.172
+Discovered open port 11110/tcp on 45.60.97.172
+Discovered open port 5999/tcp on 45.60.97.172
+Discovered open port 8021/tcp on 45.60.97.172
+Discovered open port 9000/tcp on 45.60.97.172
+Discovered open port 2100/tcp on 45.60.97.172
+Discovered open port 7070/tcp on 45.60.97.172
+Discovered open port 5001/tcp on 45.60.97.172
+Discovered open port 3017/tcp on 45.60.97.172
+Discovered open port 2020/tcp on 45.60.97.172
+Discovered open port 1455/tcp on 45.60.97.172
+Discovered open port 84/tcp on 45.60.97.172
+Discovered open port 636/tcp on 45.60.97.172
+Discovered open port 1028/tcp on 45.60.97.172
+Discovered open port 4000/tcp on 45.60.97.172
+Discovered open port 7004/tcp on 45.60.97.172
+Discovered open port 8099/tcp on 45.60.97.172
+Discovered open port 8009/tcp on 45.60.97.172
+Discovered open port 6002/tcp on 45.60.97.172
+Discovered open port 389/tcp on 45.60.97.172
+Discovered open port 3333/tcp on 45.60.97.172
+Discovered open port 9001/tcp on 45.60.97.172
+Discovered open port 9010/tcp on 45.60.97.172
+Discovered open port 10012/tcp on 45.60.97.172
+Discovered open port 1974/tcp on 45.60.97.172
+Discovered open port 7999/tcp on 45.60.97.172
+Discovered open port 8008/tcp on 45.60.97.172
+Discovered open port 5269/tcp on 45.60.97.172
+Discovered open port 843/tcp on 45.60.97.172
+Discovered open port 8180/tcp on 45.60.97.172
+Discovered open port 1002/tcp on 45.60.97.172
+Discovered open port 9207/tcp on 45.60.97.172
+Discovered open port 8002/tcp on 45.60.97.172
+Discovered open port 2000/tcp on 45.60.97.172
+Discovered open port 5988/tcp on 45.60.97.172
+Discovered open port 801/tcp on 45.60.97.172
+Discovered open port 6000/tcp on 45.60.97.172
+Discovered open port 8402/tcp on 45.60.97.172
+Discovered open port 8089/tcp on 45.60.97.172
+Discovered open port 800/tcp on 45.60.97.172
+Discovered open port 5987/tcp on 45.60.97.172
+Discovered open port 3013/tcp on 45.60.97.172
+Discovered open port 1024/tcp on 45.60.97.172
+Discovered open port 8084/tcp on 45.60.97.172
+Discovered open port 5060/tcp on 45.60.97.172
+Discovered open port 8093/tcp on 45.60.97.172
+Discovered open port 6543/tcp on 45.60.97.172
+Discovered open port 5226/tcp on 45.60.97.172
+Discovered open port 60443/tcp on 45.60.97.172
+Discovered open port 8031/tcp on 45.60.97.172
+Discovered open port 5000/tcp on 45.60.97.172
+Discovered open port 8100/tcp on 45.60.97.172
+Discovered open port 50001/tcp on 45.60.97.172
+Discovered open port 3580/tcp on 45.60.97.172
+Discovered open port 1984/tcp on 45.60.97.172
+Discovered open port 2068/tcp on 45.60.97.172
+Discovered open port 5002/tcp on 45.60.97.172
+Discovered open port 1494/tcp on 45.60.97.172
+Discovered open port 81/tcp on 45.60.97.172
+Discovered open port 8333/tcp on 45.60.97.172
+Discovered open port 5904/tcp on 45.60.97.172
+Discovered open port 6565/tcp on 45.60.97.172
+Discovered open port 6580/tcp on 45.60.97.172
+Discovered open port 4343/tcp on 45.60.97.172
+Discovered open port 7007/tcp on 45.60.97.172
+Discovered open port 9110/tcp on 45.60.97.172
+Discovered open port 9500/tcp on 45.60.97.172
+Discovered open port 9111/tcp on 45.60.97.172
+Discovered open port 1433/tcp on 45.60.97.172
+Discovered open port 6005/tcp on 45.60.97.172
+Discovered open port 10025/tcp on 45.60.97.172
+Discovered open port 20000/tcp on 45.60.97.172
+Discovered open port 16001/tcp on 45.60.97.172
+Discovered open port 6789/tcp on 45.60.97.172
+Discovered open port 8083/tcp on 45.60.97.172
+Discovered open port 1234/tcp on 45.60.97.172
+Discovered open port 8010/tcp on 45.60.97.172
+Discovered open port 5911/tcp on 45.60.97.172
+Discovered open port 82/tcp on 45.60.97.172
+Discovered open port 9200/tcp on 45.60.97.172
+Discovered open port 5222/tcp on 45.60.97.172
+Discovered open port 4001/tcp on 45.60.97.172
+Discovered open port 5225/tcp on 45.60.97.172
+Discovered open port 9099/tcp on 45.60.97.172
+Discovered open port 6009/tcp on 45.60.97.172
+Discovered open port 9003/tcp on 45.60.97.172
+Discovered open port 4443/tcp on 45.60.97.172
+Discovered open port 6007/tcp on 45.60.97.172
+Discovered open port 5440/tcp on 45.60.97.172
+Discovered open port 9002/tcp on 45.60.97.172
+Discovered open port 2065/tcp on 45.60.97.172
+Discovered open port 7000/tcp on 45.60.97.172
+Discovered open port 9103/tcp on 45.60.97.172
+Discovered open port 9040/tcp on 45.60.97.172
+Discovered open port 5907/tcp on 45.60.97.172
+Discovered open port 12345/tcp on 45.60.97.172
+Discovered open port 6779/tcp on 45.60.97.172
+Discovered open port 10003/tcp on 45.60.97.172
+Discovered open port 9009/tcp on 45.60.97.172
+Discovered open port 2557/tcp on 45.60.97.172
+Discovered open port 6003/tcp on 45.60.97.172
+Discovered open port 8181/tcp on 45.60.97.172
+Discovered open port 5120/tcp on 45.60.97.172
+Discovered open port 8090/tcp on 45.60.97.172
+Discovered open port 31337/tcp on 45.60.97.172
+Discovered open port 89/tcp on 45.60.97.172
+Discovered open port 555/tcp on 45.60.97.172
+Discovered open port 8194/tcp on 45.60.97.172
+Discovered open port 8081/tcp on 45.60.97.172
+Discovered open port 8000/tcp on 45.60.97.172
+Discovered open port 9220/tcp on 45.60.97.172
+Discovered open port 10000/tcp on 45.60.97.172
+Discovered open port 5009/tcp on 45.60.97.172
+Discovered open port 8192/tcp on 45.60.97.172
+Discovered open port 5902/tcp on 45.60.97.172
+Discovered open port 8383/tcp on 45.60.97.172
+Discovered open port 2006/tcp on 45.60.97.172
+Discovered open port 88/tcp on 45.60.97.172
+Discovered open port 9090/tcp on 45.60.97.172
+Discovered open port 5915/tcp on 45.60.97.172
+Discovered open port 5910/tcp on 45.60.97.172
+Discovered open port 55055/tcp on 45.60.97.172
+Discovered open port 8022/tcp on 45.60.97.172
+Discovered open port 9102/tcp on 45.60.97.172
+Discovered open port 8222/tcp on 45.60.97.172
+Discovered open port 18040/tcp on 45.60.97.172
+Discovered open port 9999/tcp on 45.60.97.172
+Discovered open port 15002/tcp on 45.60.97.172
+Discovered open port 50000/tcp on 45.60.97.172
+Discovered open port 990/tcp on 45.60.97.172
+Discovered open port 6100/tcp on 45.60.97.172
+Discovered open port 5555/tcp on 45.60.97.172
+Discovered open port 2048/tcp on 45.60.97.172
+Discovered open port 8042/tcp on 45.60.97.172
+Discovered open port 30000/tcp on 45.60.97.172
+Discovered open port 9080/tcp on 45.60.97.172
+Discovered open port 8088/tcp on 45.60.97.172
+Discovered open port 8011/tcp on 45.60.97.172
+Discovered open port 1971/tcp on 45.60.97.172
+Discovered open port 1935/tcp on 45.60.97.172
+Discovered open port 12174/tcp on 45.60.97.172
+Discovered open port 3030/tcp on 45.60.97.172
+Discovered open port 9011/tcp on 45.60.97.172
+Discovered open port 8007/tcp on 45.60.97.172
+Discovered open port 631/tcp on 45.60.97.172
+Discovered open port 777/tcp on 45.60.97.172
+Discovered open port 1972/tcp on 45.60.97.172
+Discovered open port 7777/tcp on 45.60.97.172
+Discovered open port 7443/tcp on 45.60.97.172
+Discovered open port 1000/tcp on 45.60.97.172
+Discovered open port 6510/tcp on 45.60.97.172
+Discovered open port 5004/tcp on 45.60.97.172
+Discovered open port 3071/tcp on 45.60.97.172
+Discovered open port 16016/tcp on 45.60.97.172
+Discovered open port 1111/tcp on 45.60.97.172
+Discovered open port 8045/tcp on 45.60.97.172
+Discovered open port 5901/tcp on 45.60.97.172
+Discovered open port 9100/tcp on 45.60.97.172
+Discovered open port 1443/tcp on 45.60.97.172
+Discovered open port 99/tcp on 45.60.97.172
+Discovered open port 2222/tcp on 45.60.97.172
+Discovered open port 8087/tcp on 45.60.97.172
+Discovered open port 5080/tcp on 45.60.97.172
+Discovered open port 444/tcp on 45.60.97.172
+Discovered open port 2200/tcp on 45.60.97.172
+Discovered open port 10009/tcp on 45.60.97.172
+Discovered open port 6006/tcp on 45.60.97.172
+Discovered open port 8086/tcp on 45.60.97.172
+Discovered open port 8001/tcp on 45.60.97.172
+Discovered open port 999/tcp on 45.60.97.172
+Discovered open port 10024/tcp on 45.60.97.172
+Discovered open port 3001/tcp on 45.60.97.172
+Discovered open port 8899/tcp on 45.60.97.172
+Discovered open port 8600/tcp on 45.60.97.172
+Discovered open port 3052/tcp on 45.60.97.172
+Discovered open port 8082/tcp on 45.60.97.172
+Discovered open port 5989/tcp on 45.60.97.172
+Discovered open port 5998/tcp on 45.60.97.172
+Discovered open port 5906/tcp on 45.60.97.172
+Discovered open port 5500/tcp on 45.60.97.172
+Discovered open port 3007/tcp on 45.60.97.172
+Discovered open port 90/tcp on 45.60.97.172
+Discovered open port 10004/tcp on 45.60.97.172
+Discovered open port 10010/tcp on 45.60.97.172
+Discovered open port 83/tcp on 45.60.97.172
+Discovered open port 10082/tcp on 45.60.97.172
+Discovered open port 3005/tcp on 45.60.97.172
+Discovered open port 10001/tcp on 45.60.97.172
+Discovered open port 5003/tcp on 45.60.97.172
+Discovered open port 4848/tcp on 45.60.97.172
+Discovered open port 5050/tcp on 45.60.97.172
+Discovered open port 6004/tcp on 45.60.97.172
+Discovered open port 888/tcp on 45.60.97.172
+Discovered open port 3551/tcp on 45.60.97.172
+Completed SYN Stealth Scan at 23:54, 30.00s elapsed (1000 total ports)
+Initiating OS detection (try #1) against cellstrat.com (45.60.97.172)
+Retrying OS detection (try #2) against cellstrat.com (45.60.97.172)
+Nmap scan report for cellstrat.com (45.60.97.172)
+Host is up (0.34s latency).
+Other addresses for cellstrat.com (not scanned): 107.154.147.172
+Not shown: 755 filtered ports
+PORT      STATE SERVICE
+25/tcp    open  smtp
+53/tcp    open  domain
+80/tcp    open  http
+81/tcp    open  hosts2-ns
+82/tcp    open  xfer
+83/tcp    open  mit-ml-dev
+84/tcp    open  ctf
+85/tcp    open  mit-ml-dev
+88/tcp    open  kerberos-sec
+89/tcp    open  su-mit-tg
+90/tcp    open  dnsix
+99/tcp    open  metagram
+389/tcp   open  ldap
+443/tcp   open  https
+444/tcp   open  snpp
+445/tcp   open  microsoft-ds
+555/tcp   open  dsf
+587/tcp   open  submission
+631/tcp   open  ipp
+636/tcp   open  ldapssl
+777/tcp   open  multiling-http
+800/tcp   open  mdbs_daemon
+801/tcp   open  device
+843/tcp   open  unknown
+888/tcp   open  accessbuilder
+990/tcp   open  ftps
+995/tcp   open  pop3s
+999/tcp   open  garcon
+1000/tcp  open  cadlock
+1002/tcp  open  windows-icfw
+1024/tcp  open  kdm
+1025/tcp  open  NFS-or-IIS
+1028/tcp  open  unknown
+1080/tcp  open  socks
+1111/tcp  open  lmsocialserver
+1234/tcp  open  hotline
+1433/tcp  open  ms-sql-s
+1443/tcp  open  ies-lm
+1455/tcp  open  esl-lm
+1494/tcp  open  citrix-ica
+1935/tcp  open  rtmp
+1971/tcp  open  netop-school
+1972/tcp  open  intersys-cache
+1974/tcp  open  drp
+1984/tcp  open  bigbrother
+2000/tcp  open  cisco-sccp
+2001/tcp  open  dc
+2006/tcp  open  invokator
+2020/tcp  open  xinupageserver
+2048/tcp  open  dls-monitor
+2049/tcp  open  nfs
+2065/tcp  open  dlsrpn
+2068/tcp  open  avocentkvm
+2100/tcp  open  amiganetfs
+2200/tcp  open  ici
+2222/tcp  open  EtherNetIP-1
+2557/tcp  open  nicetec-mgmt
+3000/tcp  open  ppp
+3001/tcp  open  nessus
+3003/tcp  open  cgms
+3005/tcp  open  deslogin
+3006/tcp  open  deslogind
+3007/tcp  open  lotusmtap
+3011/tcp  open  trusted-web
+3013/tcp  open  gilatskysurfer
+3017/tcp  open  event_listener
+3030/tcp  open  arepa-cas
+3052/tcp  open  powerchute
+3071/tcp  open  csd-mgmt-port
+3077/tcp  open  orbix-loc-ssl
+3306/tcp  open  mysql
+3333/tcp  open  dec-notes
+3389/tcp  open  ms-wbt-server
+3404/tcp  open  unknown
+3551/tcp  open  apcupsd
+3580/tcp  open  nati-svrloc
+4000/tcp  open  remoteanything
+4001/tcp  open  newoak
+4002/tcp  open  mlchat-proxy
+4343/tcp  open  unicall
+4443/tcp  open  pharos
+4444/tcp  open  krb524
+4445/tcp  open  upnotifyp
+4848/tcp  open  appserv-http
+5000/tcp  open  upnp
+5001/tcp  open  commplex-link
+5002/tcp  open  rfe
+5003/tcp  open  filemaker
+5004/tcp  open  avt-profile-1
+5009/tcp  open  airport-admin
+5050/tcp  open  mmcc
+5060/tcp  open  sip
+5061/tcp  open  sip-tls
+5080/tcp  open  onscreen
+5100/tcp  open  admd
+5120/tcp  open  barracuda-bbs
+5222/tcp  open  xmpp-client
+5225/tcp  open  hp-server
+5226/tcp  open  hp-status
+5269/tcp  open  xmpp-server
+5280/tcp  open  xmpp-bosh
+5440/tcp  open  unknown
+5500/tcp  open  hotline
+5555/tcp  open  freeciv
+5900/tcp  open  vnc
+5901/tcp  open  vnc-1
+5902/tcp  open  vnc-2
+5903/tcp  open  vnc-3
+5904/tcp  open  unknown
+5906/tcp  open  unknown
+5907/tcp  open  unknown
+5910/tcp  open  cm
+5911/tcp  open  cpdlc
+5915/tcp  open  unknown
+5987/tcp  open  wbem-rmi
+5988/tcp  open  wbem-http
+5989/tcp  open  wbem-https
+5998/tcp  open  ncd-diag
+5999/tcp  open  ncd-conf
+6000/tcp  open  X11
+6001/tcp  open  X11:1
+6002/tcp  open  X11:2
+6003/tcp  open  X11:3
+6004/tcp  open  X11:4
+6005/tcp  open  X11:5
+6006/tcp  open  X11:6
+6007/tcp  open  X11:7
+6009/tcp  open  X11:9
+6100/tcp  open  synchronet-db
+6510/tcp  open  mcer-port
+6543/tcp  open  mythtv
+6565/tcp  open  unknown
+6580/tcp  open  parsec-master
+6666/tcp  open  irc
+6779/tcp  open  unknown
+6789/tcp  open  ibm-db2-admin
+7000/tcp  open  afs3-fileserver
+7001/tcp  open  afs3-callback
+7002/tcp  open  afs3-prserver
+7004/tcp  open  afs3-kaserver
+7007/tcp  open  afs3-bos
+7070/tcp  open  realserver
+7443/tcp  open  oracleas-https
+7777/tcp  open  cbt
+7778/tcp  open  interwise
+7999/tcp  open  irdmi2
+8000/tcp  open  http-alt
+8001/tcp  open  vcom-tunnel
+8002/tcp  open  teradataordbms
+8007/tcp  open  ajp12
+8008/tcp  open  http
+8009/tcp  open  ajp13
+8010/tcp  open  xmpp
+8011/tcp  open  unknown
+8021/tcp  open  ftp-proxy
+8022/tcp  open  oa-system
+8031/tcp  open  unknown
+8042/tcp  open  fs-agent
+8045/tcp  open  unknown
+8080/tcp  open  http-proxy
+8081/tcp  open  blackice-icecap
+8082/tcp  open  blackice-alerts
+8083/tcp  open  us-srv
+8084/tcp  open  unknown
+8085/tcp  open  unknown
+8086/tcp  open  d-s-n
+8087/tcp  open  simplifymedia
+8088/tcp  open  radan-http
+8089/tcp  open  unknown
+8090/tcp  open  opsmessaging
+8093/tcp  open  unknown
+8099/tcp  open  unknown
+8100/tcp  open  xprint-server
+8180/tcp  open  unknown
+8181/tcp  open  intermapper
+8192/tcp  open  sophos
+8193/tcp  open  sophos
+8194/tcp  open  sophos
+8200/tcp  open  trivnet1
+8222/tcp  open  unknown
+8333/tcp  open  bitcoin
+8383/tcp  open  m2mservices
+8402/tcp  open  abarsd
+8443/tcp  open  https-alt
+8500/tcp  open  fmtp
+8600/tcp  open  asterix
+8701/tcp  open  unknown
+8800/tcp  open  sunwebadmin
+8873/tcp  open  dxspider
+8888/tcp  open  sun-answerbook
+8899/tcp  open  ospf-lite
+9000/tcp  open  cslistener
+9001/tcp  open  tor-orport
+9002/tcp  open  dynamid
+9003/tcp  open  unknown
+9009/tcp  open  pichat
+9010/tcp  open  sdr
+9011/tcp  open  d-star
+9040/tcp  open  tor-trans
+9050/tcp  open  tor-socks
+9080/tcp  open  glrpc
+9081/tcp  open  cisco-aqos
+9090/tcp  open  zeus-admin
+9091/tcp  open  xmltec-xmlmail
+9099/tcp  open  unknown
+9100/tcp  open  jetdirect
+9101/tcp  open  jetdirect
+9102/tcp  open  jetdirect
+9103/tcp  open  jetdirect
+9110/tcp  open  unknown
+9111/tcp  open  DragonIDSConsole
+9200/tcp  open  wap-wsp
+9207/tcp  open  wap-vcal-s
+9220/tcp  open  unknown
+9500/tcp  open  ismserver
+9998/tcp  open  distinct32
+9999/tcp  open  abyss
+10000/tcp open  snet-sensor-mgmt
+10001/tcp open  scp-config
+10002/tcp open  documentum
+10003/tcp open  documentum_s
+10004/tcp open  emcrmirccd
+10009/tcp open  swdtp-sv
+10010/tcp open  rxapi
+10012/tcp open  unknown
+10024/tcp open  unknown
+10025/tcp open  unknown
+10082/tcp open  amandaidx
+11110/tcp open  sgi-soap
+12174/tcp open  unknown
+12265/tcp open  unknown
+12345/tcp open  netbus
+15002/tcp open  onep-tls
+16000/tcp open  fmsas
+16001/tcp open  fmsascon
+16016/tcp open  unknown
+18040/tcp open  unknown
+18101/tcp open  unknown
+20000/tcp open  dnp
+30000/tcp open  ndmps
+31337/tcp open  Elite
+50000/tcp open  ibm-db2
+50001/tcp open  unknown
+55055/tcp open  unknown
+60443/tcp open  unknown
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+Uptime guess: 26.928 days (since Sun Jan 19 01:37:48 2020)
+TCP Sequence Prediction: Difficulty=259 (Good luck!)
+IP ID Sequence Generation: All zeros
+
+Read data files from: /usr/bin/../share/nmap
+OS detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+Nmap done: 1 IP address (1 host up) scanned in 37.75 seconds
+           Raw packets sent: 2608 (119.864KB) | Rcvd: 268 (11.992KB)
+
+Warning: Pycurl is not compiled against Openssl. Wfuzz might not work correctly when fuzzing SSL sites. Check Wfuzz's documentation for more information.
+
+
+[92m*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester Ver. 3.0.6                                         *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************[94m
+
+
+found supported engines
+[-] Starting harvesting process for domain: cellstrat.com
+
+Full harvest on cellstrat.com
+[-] Searching in Google..
+Search interrupted by user..
+
+******************************************************
+*     /\/\   ___| |_ __ _  __ _  ___   ___  / _(_) | *
+*    /    \ / _ \ __/ _` |/ _` |/ _ \ / _ \| |_| | | *
+*   / /\/\ \  __/ || (_| | (_| | (_) | (_) |  _| | | *
+*   \/    \/\___|\__\__,_|\__, |\___/ \___/|_| |_|_| *
+*                         |___/                      *
+* Metagoofil Ver 2.2                                 *
+* Christian Martorella                               *
+* Edge-Security.com                                  *
+* cmartorella_at_edge-security.com                   *
+******************************************************	
+[*] Performing General Enumeration of Domain: cellstrat.com
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*] Checking for Zone Transfer for cellstrat.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] Resolving NS Records
+[*] NS Servers found:
+[*] 	NS ns21.worldnic.com 207.204.40.111
+[*] 	NS ns22.worldnic.com 207.204.21.111
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 207.204.21.111
+[+] 207.204.21.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[*]  
+[*] Trying NS server 207.204.40.111
+[+] 207.204.40.111 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTAUTH
+[-] DNSSEC is not configured for cellstrat.com
+[*] 	 SOA NS21.WORLDNIC.com 207.204.40.111
+[*] 	 NS ns21.worldnic.com 207.204.40.111
+[*] 	 NS ns22.worldnic.com 207.204.21.111
+[*] 	 MX mx1.netsolmail.net 209.17.115.10
+[*] 	 A cellstrat.com 45.60.97.172
+[*] 	 A cellstrat.com 107.154.147.172
+[*] Enumerating SRV Records
+[-] No SRV Records Found for cellstrat.com
+[+] 0 Records Found
+[*] Performing Google Search Enumeration
+[-] Google has detected the search as 'bot activity, stopping search...
+[91m
+                 ____        _     _ _     _   _____
+                / ___| _   _| |__ | (_)___| |_|___ / _ __
+                \___ \| | | | '_ \| | / __| __| |_ \| '__|
+                 ___) | |_| | |_) | | \__ \ |_ ___) | |
+                |____/ \__,_|_.__/|_|_|___/\__|____/|_|[0m[93m
+
+                # Coded By Ahmed Aboul-Ela - @aboul3la
+    
+[94m[-] Enumerating subdomains now for cellstrat.com[0m
+[92m[-] Searching now in Baidu..[0m
+[92m[-] Searching now in Yahoo..[0m
+[92m[-] Searching now in Google..[0m
+[92m[-] Searching now in Bing..[0m
+[92m[-] Searching now in Ask..[0m
+[92m[-] Searching now in Netcraft..[0m
+[92m[-] Searching now in DNSdumpster..[0m
+[92m[-] Searching now in Virustotal..[0m
+[92m[-] Searching now in ThreatCrowd..[0m
+[92m[-] Searching now in SSL Certificates..[0m
+[92m[-] Searching now in PassiveDNS..[0m
+[93m[-] Total Unique Subdomains Found: 1[0m
+[92mwww.cellstrat.com[0m
+
+                [1;97m______
+               [1;97m/      \
+              [1;97m(  W00f! )
+               [1;97m\  ____/
+               [1;97m,,    [1;92m__            [1;93m404 Hack Not Found
+           [1;96m|`-.__   [1;92m/ /                     [1;91m __     __
+           [1;96m/"  _/  [1;92m/_/                       [1;91m\ \   / /
+          [1;94m*===*    [1;92m/                          [1;91m\ \_/ /  [1;93m405 Not Allowed
+         [1;96m/     )__//                           [1;91m\   /
+    [1;96m/|  /     /---`                        [1;93m403 Forbidden
+    [1;96m\\/`   \ |                                 [1;91m/ _ \
+    [1;96m`\    /_\\_              [1;93m502 Bad Gateway  [1;91m/ / \ \  [1;93m500 Internal Error
+      [1;96m`_____``-`                             [1;91m/_/   \_\
+
+                        [1;96m~ WAFW00F : [1;94mv2.0.0 ~[1;97m
+        The Web Application Firewall Fingerprinting Toolkit
+    [0m
+[*] Checking https://
+[1m[34mhttp://cellstrat.com[0m [301 Moved Permanently] [1m[37mCookies[0m[[37m___utmvaawuDiMXB,___utmvbawuDiMXB,___utmvmawuDiMXB,incap_ses_303_1900188,visid_incap_1900188[0m], [1m[37mCountry[0m[[37mUNITED STATES[0m][[1m[31mUS[0m], [1m[37mHTTPServer[0m[[1m[31mGentoo Linux[0m][[1m[36mopenresty/1.15.8.1[0m], [1m[37mIP[0m[[37m107.154.147.172[0m], [1m[37mIncapsula-WAF[0m, [1m[37mPHP[0m[[1m[32m5.3.29-pl0-gentoo[0m], [1m[37mRedirectLocation[0m[[37mhttp://www.cellstrat.com/[0m], [1m[37mUncommonHeaders[0m[[37mx-webcom-cache-status,x-cdn,x-iinfo[0m], [1m[37mX-Powered-By[0m[[37mPHP/5.3.29-pl0-gentoo[0m]
+[1m[34mhttp://www.cellstrat.com/[0m [200 OK] [1m[37mCookies[0m[[37m___utmvaYSuDiMXB,___utmvbYSuDiMXB,___utmvmYSuDiMXB,incap_ses_743_1900188,visid_incap_1900188[0m], [1m[37mCountry[0m[[37mUNITED STATES[0m][[1m[31mUS[0m], [1m[37mFrame[0m, [1m[37mHTML5[0m, [1m[37mHTTPServer[0m[[1m[31mGentoo Linux[0m][[1m[36mopenresty/1.13.6.2[0m], [1m[37mIP[0m[[37m107.154.151.172[0m], [1m[37mIncapsula-WAF[0m, [1m[37mJQuery[0m[[1m[32m1.12.4[0m], [1m[37mMetaGenerator[0m[[37mPowered by Slider Revolution 5.4.8 - responsive, Mobile-Friendly Slider Plugin for WordPress with comfortable drag and drop interface.,Powered by WPBakery Page Builder - drag and drop page builder for WordPress.,WooCommerce 3.5.3,WordPress 5.0.8[0m], [1m[37mPHP[0m[[1m[32m5.3.29-pl0-gentoo[0m], [1m[37mPoweredBy[0m[[37mSlider,WPBakery[0m], [1m[37mScript[0m[[37mtext/javascript[0m], [1m[37mTitle[0m[[1m[33mCellStrat &#8211; AI Research | Development | Content[0m], [1m[37mUncommonHeaders[0m[[37mlink,x-webcom-cache-status,x-cdn,x-iinfo[0m], [1m[37mWordPress[0m[[1m[32m5.0.8[0m], [1m[37mWordpress-Contact-Form[0m[[1m[32m7.4.9[0m], [1m[37mX-Powered-By[0m[[37mPHP/5.3.29-pl0-gentoo[0m], [1m[37mYouTube[0m
+_______________________________________________________________
+        __          _______   _____
+        \ \        / /  __ \ / ____|
+         \ \  /\  / /| |__) | (___   ___  __ _ _ __ ®
+          \ \/  \/ / |  ___/ \___ \ / __|/ _` | '_ \
+           \  /\  /  | |     ____) | (__| (_| | | | |
+            \/  \/   |_|    |_____/ \___|\__,_|_| |_|
+
+        WordPress Security Scanner by the WPScan Team
+                       Version 3.7.3
+       Sponsored by Automattic - https://automattic.com/
+      @_WPScan_, @ethicalhack3r, @erwan_lr, @_FireFart_
+_______________________________________________________________
+
+
+Scan Aborted: The remote website is up, but does not seem to be running WordPress.
+
+ _    _______                                    
+| |  | | ___ \                                   
+| |  | | |_/ /__  ___ __ _ _ __  _ __   ___ _ __ 
+| |/\| |  __/ __|/ __/ _` | '_ \| '_ \ / _ \ '__|
+\  /\  / |  \__ \ (_| (_| | | | | | | |  __/ |   
+ \/  \/\_|  |___/\___\__,_|_| |_|_| |_|\___|_|  
+
+         Wpscanner@WordPress Users Scanner 
+
+       >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>> 
+       > GITHUB : www.github.com/KyxRecon  >
+       > SITE   : www.kyxhack.blogspot.mx  >
+       >                                   >    
+       >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+[+]: Scanning http://cellstrat.com/
+[+]: %0	[+]: %5	[+]: %10	[+]: %15	[+]: %20	[+]: %25	[+]: %30	[+]: %35	[+]: %40	[+]: %45	[+]: %50	[+]: %55	[+]: %60	[+]: %65	[+]: %70	[+]: %75	[+]: %80	[+]: %85	[+]: %90	[+]: %95	Found 5 users in http://cellstrat.com/
+  +----+-----------+--------------------------------------+
+  | Id | Login     | Name                                 |
+  +----+-----------+--------------------------------------+
+  | 1  | bhaveshl  | Bhavesh Laddagiri &#8211; CellStrat  |
+  | 2  | cseditor  | CellStrat Editor &#8211; CellStrat   |
+  | 3  | nirajkale | Niraj Kale &#8211; CellStrat         |
+  | 4  | shubha-m  | Shubha Manikarnike &#8211; CellStrat |
+  | 5  | vsinghal  | vsinghal &#8211; CellStrat           |
+  +----+-----------+--------------------------------------+
+[+] Accepted redirect to http://www.cellstrat.com/
+[91m[+] It is possible that http://www.cellstrat.com/ is not running wordpress. If you disagree, please specify a --method.[0m
+[1;31m__        ______  ____       _          [0m
+[1;31m\ \      / /  _ \/ ___|  ___| | ___   _ [0m
+[1;31m \ \ /\ / /| |_) \___ \ / _ \ |/ / | | |[0m
+[1;31m  \ V  V / |  __/ ___) |  __/   <| |_| |[0m
+[1;31m   \_/\_/  |_|   |____/ \___|_|\_\\__,_|[0m
+[0;38m                                         [0m
+[0;38m|| WPSeku - Wordpress Security Scanner   [0m
+[0;38m|| Version 0.2.1                         [0m
+[0;38m|| Momo Outaadi (M4ll0k)                 [0m
+[0;38m|| [4;33mhttps://github.com/m4ll0k/WPSeku[0m
+
+[1;32m[+][0m [0;38mTarget: http://cellstrat.com[0m
+[1;32m[+][0m [0;38mStarting: 15/02/2020 00:18:07
+[0m
+
+[1;34m[*][0m [0;38mChecking sitemap...[0m
+[1;32m[+][0m [0;38msitemap.xml available under: http://cellstrat.com/sitemap.xml[0m
+[1;34m[*][0m [0;38mChecking license...[0m
+[1;32m[+][0m [0;38mlicense.txt available under: http://cellstrat.com/license.txt[0m
+[1;34m[*][0m [0;38mChecking robots...[0m
+[1;32m[+][0m [0;38mrobots.txt available under: http://cellstrat.com/robots.txt[0m
+
+User-agent: *
+Disallow: 
+
+
+[1;34m[*][0m [0;38mChecking crossdomain...[0m
+[1;32m[+][0m [0;38mcrossdomain.xml available under: http://cellstrat.com/crossdomain.xml[0m
+[1;34m[*][0m [0;38mChecking readme...[0m
+[1;32m[+][0m [0;38mreadme.html available under: http://cellstrat.com/readme.html[0m
+[1;34m[*][0m [0;38mChecking .htaccess...[0m
+[1;31m[-][0m [0;38m.htaccess not available[0m
+[1;34m[*][0m [0;38mChecking xmlrpc...[0m
+[1;31m[-][0m [0;38mXML-RPC not available[0m
+[1;34m[*][0m [0;38mChecking Full Path Disclosure...[0m
+[1;31m[-][0m [0;38mFull Path Disclosure not available[0m
+[1;34m[*][0m [0;38mChecking wp-config...[0m
+[1;31m[-][0m [0;38mwp-config not available[0m
+[1;34m[*][0m [0;38mChecking wp-config-sample...[0m
+[1;31m[-][0m [0;38mwp-config-sample not available[0m
+[1;34m[*][0m [0;38mChecking wp-config backup...[0m
+[1;31m[-][0m [0;38mwp-config.php~ backup not available[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.backup[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.bck[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.old[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.save[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.bak[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.copy[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.tmp[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.txt[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.zip[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.db[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.dat[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.tar.gz[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.back[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.test[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.temp[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.orig[0m
+[1;34m[*][0m [0;38mChecking dir listing...[0m
+[1;31m[-][0m [0;38mdir /wp-admin not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-includes not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/uploads not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/plugins not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/themes not listing enabled[0m
+[1;34m[*][0m [0;38mInteresting headers...[0m
+
+Cache-Control: no-cache
+Connection: close
+Content-Length: 740
+Content-Type: text/html
+Set-Cookie: visid_incap_1900188=L2SUVTSpTn2EITQZQ0ZW3yHsRl4AAAAAQUIPAAAAAABicU2ClD9Axj3h4xsEzNkS; expires=Sat, 13 Feb 2021 12:48:55 GMT; path=/; Domain=.cellstrat.com, incap_ses_303_1900188=5IyYNeZhCweR7Ilb53g0BCHsRl4AAAAAjP5oTQZ1gJwlmYnkjnxtsg==; path=/; Domain=.cellstrat.com
+
+[1;34m[*][0m [0;38mChecking WAF...[0m
+[1;34m[*][0m [0;38mChecking wp-login protection...[0m
+[1;32m[+][0m [0;38mwp-login not detect protection[0m
+[1;34m[*][0m [0;38mChecking wordpress version...[0m
+[1;34m[*][0m [0;38mEnumeration themes...[0m
+ [1;32m|[0m [0;38mNot found themes[0m
+[1;34m[*][0m [0;38mEnumeration plugins...[0m
+[1;34m[*][0m [0;38mEnumeration usernames...[0m
+ [1;31m|[0m [0;38mNot found usernames[0m
+[+] Accepted redirect to http://www.cellstrat.com/
+[92m[+] Possible interesting urls found:[0m
+    This CMS' default changelog. - [94mhttp://www.cellstrat.com/joomla.xml[0m
+    Detailed version information. - [94mhttp://www.cellstrat.com/administrator/manifests/files/joomla.xml[0m
+    Login page. - [94mhttp://www.cellstrat.com/administrator/[0m
+    SimplePie README. - [94mhttp://www.cellstrat.com/libraries/simplepie/README.txt[0m
+    License file. - [94mhttp://www.cellstrat.com/LICENSE.txt[0m
+    Version attribute contains approx version - [94mhttp://www.cellstrat.com/plugins/system/cache/cache.xml[0m
+
+[+] No version found.
+
+[95m[+] Scan finished (0:00:05.889665 elapsed)[0m
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[32mConnected to 45.60.97.172[0m
+
+Testing SSL server [32mcellstrat.com[0m on port [32m443[0m using SNI name [32mcellstrat.com[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+Server [32msupports[0m TLS Fallback SCSV
+
+  [1;34mTLS renegotiation:[0m
+Session renegotiation [32mnot supported[0m
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+TLS 1.2 [32mnot vulnerable[0m to heartbleed
+TLS 1.1 [32mnot vulnerable[0m to heartbleed
+TLS 1.0 [32mnot vulnerable[0m to heartbleed
+
+  [1;34mSupported Server Cipher(s):[0m
+- Nikto v2.1.6
+---------------------------------------------------------------------------
+[+] Accepted redirect to http://www.cellstrat.com/
+[91m[+] It is possible that http://www.cellstrat.com/ is not running drupal. If you disagree, please specify a --method.[0m
+[+] Accepted redirect to http://www.cellstrat.com/
+[91m[+] It is possible that http://www.cellstrat.com/ is not running silverstripe. If you disagree, please specify a --method.[0m
+[+] Accepted redirect to http://www.cellstrat.com/
+[91m[+] It is possible that http://www.cellstrat.com/ is not running moodle. If you disagree, please specify a --method.[0m
+[3J[H[2J[94m[SET] target => cellstrat.com[0m
+[94m[SET] IP Address => 45.60.97.172[0m
+[94m[SET] target port => 443[0m
+[94m[SET] include => All Module[0m
+                                A_A
+                               (-.-)
+                               /   h 
+                              |     |   __ 
+                              |  || |  |  t__  
+                               t_|| /_/ 
+                    █████╗ ██████╗ ███████╗██╗   ██╗ 
+                   ██╔══██╗╚════██╗██╔════╝██║   ██║ 
+                   ███████║ █████╔╝███████╗██║   ██║ 
+                   ██╔══██║██╔═══╝ ╚════██║╚██╗ ██╔╝
+                   ██║  ██║███████╗███████║ ╚████╔╝ 
+                   ╚═╝  ╚═╝╚══════╝╚══════╝  ╚═══╝  
+[94m               [Auto Scanning to SSL Vulnerability 1.6][0m
+[0;35m                     by HaHwul (www.hahwul.com)[0m
+________________________________________________________________________
+
+[92m[INF] Check the SSL..[0m
+[92m[RES] This target supports SSL..[0m
+[92m[INF] Scan Anonymous Cipher..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Connection success'
+[92m[INF] Scan CRIME(SPDY)..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection
+ - [LOG] Analysis SSL Information
+ - [LOG] 'Includes SPDY version <4'
+[92m[INF] Scan CCS Injection..[0m
+ - [LOG] TLSv1.2 45.60.97.172:443 rejected early CCS
+ - [LOG] [TLSv1.1] 45.60.97.172:443 Invalid handshake.
+ - [LOG] [TLSv1] 45.60.97.172:443 Invalid handshake.
+ - [LOG] [SSLv3] 45.60.97.172:443 Invalid handshake.
+[92m[INF] Scan HeartBleed..[0m
+ - [LOG] Sending Client Hello...
+ - [LOG] Waiting for Server Hello...
+[92m[INF] Scan SSLv3 POODLE..[0m
+ - [LOG] Invalid SSLv3 handshake.
+[92m[INF] Scan OpenSSL FREAK..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is EXP' not in Response
+[92m[INF] Scan OpenSSL LOGJAM..[0m
+ - [LOG] IP Check Ok.
+ - [LOG] Start SSL Connection / Gathering Information
+ - [LOG] Ending Get Information
+ - [LOG] 'Cipher is DEH' not in Response
+[92m[INF] Scan SSLv2 DROWN..[0m
+invalid literal for int() with base 16: ''
+[92m[RES] Finish scan all vulnerability..[0m
+_________________________________________________________________________
+                              [A2SV REPORT]                             
+[94m [TARGET]: 45.60.97.172[0m
+[94m [PORT]: 443[0m
+[94m [SCAN TIME]: 2020-02-15 00:21:04.452238[0m
+[91m [VULNERABILITY][0m
+Vulnerability    CVE           CVSS v2 Base Score         State          
+================ ============= ========================== ===============
+Anonymous Cipher CVE-2007-1858 AV:N/AC:H/Au:N/C:P/I:N/A:N Not Vulnerable.
+CRIME(SPDY)      CVE-2012-4929 AV:N/AC:H/Au:N/C:P/I:N/A:N Vulnerable!    
+HeartBleed       CVE-2014-0160 AV:N/AC:L/Au:N/C:P/I:N/A:N Not Vulnerable.
+CCS Injection    CVE-2014-0224 AV:N/AC:M/Au:N/C:P/I:P/A:P Not Vulnerable.
+SSLv3 POODLE     CVE-2014-3566 AV:N/AC:M/Au:N/C:P/I:N/A:N Not Vulnerable.
+OpenSSL FREAK    CVE-2015-0204 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+OpenSSL LOGJAM   CVE-2015-4000 AV:N/AC:M/Au:N/C:N/I:P/A:N Not Vulnerable.
+SSLv2 DROWN      CVE-2016-0800 AV:N/AC:M/Au:N/C:P/I:N/A:N Exception      
+_________________________________________________________________________
+[91m[FIN] Scan Finish![0m

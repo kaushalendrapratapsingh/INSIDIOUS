@@ -1,0 +1,86 @@
+[1;31m__        ______  ____       _          [0m
+[1;31m\ \      / /  _ \/ ___|  ___| | ___   _ [0m
+[1;31m \ \ /\ / /| |_) \___ \ / _ \ |/ / | | |[0m
+[1;31m  \ V  V / |  __/ ___) |  __/   <| |_| |[0m
+[1;31m   \_/\_/  |_|   |____/ \___|_|\_\\__,_|[0m
+[0;38m                                         [0m
+[0;38m|| WPSeku - Wordpress Security Scanner   [0m
+[0;38m|| Version 0.2.1                         [0m
+[0;38m|| Momo Outaadi (M4ll0k)                 [0m
+[0;38m|| [4;33mhttps://github.com/m4ll0k/WPSeku[0m
+
+[1;32m[+][0m [0;38mTarget: http://musing-kalam-5194cc.netlify.com[0m
+[1;32m[+][0m [0;38mStarting: 15/02/2020 09:58:54
+[0m
+
+[1;34m[*][0m [0;38mChecking sitemap...[0m
+[1;32m[+][0m [0;38msitemap.xml available under: http://musing-kalam-5194cc.netlify.com/sitemap.xml[0m
+[1;34m[*][0m [0;38mChecking license...[0m
+[1;32m[+][0m [0;38mlicense.txt available under: http://musing-kalam-5194cc.netlify.com/license.txt[0m
+[1;34m[*][0m [0;38mChecking robots...[0m
+[1;32m[+][0m [0;38mrobots.txt available under: http://musing-kalam-5194cc.netlify.com/robots.txt[0m
+
+# https://www.robotstxt.org/robotstxt.html
+User-agent: *
+Disallow:
+
+
+[1;34m[*][0m [0;38mChecking crossdomain...[0m
+[1;32m[+][0m [0;38mcrossdomain.xml available under: http://musing-kalam-5194cc.netlify.com/crossdomain.xml[0m
+[1;34m[*][0m [0;38mChecking readme...[0m
+[1;32m[+][0m [0;38mreadme.html available under: http://musing-kalam-5194cc.netlify.com/readme.html[0m
+[1;34m[*][0m [0;38mChecking .htaccess...[0m
+[1;32m[+][0m [0;38m.htaccess available under: http://musing-kalam-5194cc.netlify.com/.htaccess[0m
+[1;34m[*][0m [0;38mChecking xmlrpc...[0m
+[1;31m[-][0m [0;38mXML-RPC not available[0m
+[1;34m[*][0m [0;38mChecking Full Path Disclosure...[0m
+[1;31m[-][0m [0;38mFull Path Disclosure not available[0m
+[1;34m[*][0m [0;38mChecking wp-config...[0m
+[1;32m[+][0m [0;38mwp-config available under: http://musing-kalam-5194cc.netlify.com/wp-config.php[0m
+[1;34m[*][0m [0;38mChecking wp-config-sample...[0m
+[1;31m[-][0m [0;38mwp-config-sample not available[0m
+[1;34m[*][0m [0;38mChecking wp-config backup...[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.php~[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.backup[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.bck[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.old[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.save[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.bak[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.copy[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.tmp[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.txt[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.zip[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.db[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.dat[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.tar.gz[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.back[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.test[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.temp[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://musing-kalam-5194cc.netlify.com/wp-config.orig[0m
+[1;34m[*][0m [0;38mChecking dir listing...[0m
+[1;31m[-][0m [0;38mdir /wp-admin not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-includes not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/uploads not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/plugins not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/themes not listing enabled[0m
+[1;34m[*][0m [0;38mInteresting headers...[0m
+
+Age: 0
+Cache-Control: public, max-age=0, must-revalidate
+Connection: close
+Content-Type: text/html; charset=UTF-8
+Date: Sat, 15 Feb 2020 04:31:58 GMT
+Etag: "bdb559269c7ca7363ead4ffd5bbc98bf-ssl"
+Server: Netlify
+Strict-Transport-Security: max-age=31536000
+Transfer-Encoding: chunked
+
+[1;34m[*][0m [0;38mChecking WAF...[0m
+[1;34m[*][0m [0;38mChecking wp-login protection...[0m
+[1;32m[+][0m [0;38mwp-login not detect protection[0m
+[1;34m[*][0m [0;38mChecking wordpress version...[0m
+[1;34m[*][0m [0;38mEnumeration themes...[0m
+ [1;32m|[0m [0;38mNot found themes[0m
+[1;34m[*][0m [0;38mEnumeration plugins...[0m
+[1;34m[*][0m [0;38mEnumeration usernames...[0m
+ [1;31m|[0m [0;38mNot found usernames[0m

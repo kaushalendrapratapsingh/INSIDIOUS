@@ -1,0 +1,81 @@
+[1;31m__        ______  ____       _          [0m
+[1;31m\ \      / /  _ \/ ___|  ___| | ___   _ [0m
+[1;31m \ \ /\ / /| |_) \___ \ / _ \ |/ / | | |[0m
+[1;31m  \ V  V / |  __/ ___) |  __/   <| |_| |[0m
+[1;31m   \_/\_/  |_|   |____/ \___|_|\_\\__,_|[0m
+[0;38m                                         [0m
+[0;38m|| WPSeku - Wordpress Security Scanner   [0m
+[0;38m|| Version 0.2.1                         [0m
+[0;38m|| Momo Outaadi (M4ll0k)                 [0m
+[0;38m|| [4;33mhttps://github.com/m4ll0k/WPSeku[0m
+
+[1;32m[+][0m [0;38mTarget: http://cellstrat.com[0m
+[1;32m[+][0m [0;38mStarting: 15/02/2020 00:18:07
+[0m
+
+[1;34m[*][0m [0;38mChecking sitemap...[0m
+[1;32m[+][0m [0;38msitemap.xml available under: http://cellstrat.com/sitemap.xml[0m
+[1;34m[*][0m [0;38mChecking license...[0m
+[1;32m[+][0m [0;38mlicense.txt available under: http://cellstrat.com/license.txt[0m
+[1;34m[*][0m [0;38mChecking robots...[0m
+[1;32m[+][0m [0;38mrobots.txt available under: http://cellstrat.com/robots.txt[0m
+
+User-agent: *
+Disallow: 
+
+
+[1;34m[*][0m [0;38mChecking crossdomain...[0m
+[1;32m[+][0m [0;38mcrossdomain.xml available under: http://cellstrat.com/crossdomain.xml[0m
+[1;34m[*][0m [0;38mChecking readme...[0m
+[1;32m[+][0m [0;38mreadme.html available under: http://cellstrat.com/readme.html[0m
+[1;34m[*][0m [0;38mChecking .htaccess...[0m
+[1;31m[-][0m [0;38m.htaccess not available[0m
+[1;34m[*][0m [0;38mChecking xmlrpc...[0m
+[1;31m[-][0m [0;38mXML-RPC not available[0m
+[1;34m[*][0m [0;38mChecking Full Path Disclosure...[0m
+[1;31m[-][0m [0;38mFull Path Disclosure not available[0m
+[1;34m[*][0m [0;38mChecking wp-config...[0m
+[1;31m[-][0m [0;38mwp-config not available[0m
+[1;34m[*][0m [0;38mChecking wp-config-sample...[0m
+[1;31m[-][0m [0;38mwp-config-sample not available[0m
+[1;34m[*][0m [0;38mChecking wp-config backup...[0m
+[1;31m[-][0m [0;38mwp-config.php~ backup not available[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.backup[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.bck[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.old[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.save[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.bak[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.copy[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.tmp[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.txt[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.zip[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.db[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.dat[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.tar.gz[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.back[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.test[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.temp[0m
+[1;32m[+][0m [0;38mwp-config backup available under: http://cellstrat.com/wp-config.orig[0m
+[1;34m[*][0m [0;38mChecking dir listing...[0m
+[1;31m[-][0m [0;38mdir /wp-admin not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-includes not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/uploads not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/plugins not listing enabled[0m
+[1;31m[-][0m [0;38mdir /wp-content/themes not listing enabled[0m
+[1;34m[*][0m [0;38mInteresting headers...[0m
+
+Cache-Control: no-cache
+Connection: close
+Content-Length: 740
+Content-Type: text/html
+Set-Cookie: visid_incap_1900188=L2SUVTSpTn2EITQZQ0ZW3yHsRl4AAAAAQUIPAAAAAABicU2ClD9Axj3h4xsEzNkS; expires=Sat, 13 Feb 2021 12:48:55 GMT; path=/; Domain=.cellstrat.com, incap_ses_303_1900188=5IyYNeZhCweR7Ilb53g0BCHsRl4AAAAAjP5oTQZ1gJwlmYnkjnxtsg==; path=/; Domain=.cellstrat.com
+
+[1;34m[*][0m [0;38mChecking WAF...[0m
+[1;34m[*][0m [0;38mChecking wp-login protection...[0m
+[1;32m[+][0m [0;38mwp-login not detect protection[0m
+[1;34m[*][0m [0;38mChecking wordpress version...[0m
+[1;34m[*][0m [0;38mEnumeration themes...[0m
+ [1;32m|[0m [0;38mNot found themes[0m
+[1;34m[*][0m [0;38mEnumeration plugins...[0m
+[1;34m[*][0m [0;38mEnumeration usernames...[0m
+ [1;31m|[0m [0;38mNot found usernames[0m

@@ -1,0 +1,96 @@
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[32mConnected to 107.154.147.172[0m
+
+Testing SSL server [32mcellstrat.com[0m on port [32m443[0m using SNI name [32mcellstrat.com[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+Server [32msupports[0m TLS Fallback SCSV
+
+  [1;34mTLS renegotiation:[0m
+Session renegotiation [32mnot supported[0m
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+TLS 1.2 [32mnot vulnerable[0m to heartbleed
+TLS 1.1 [32mnot vulnerable[0m to heartbleed
+TLS 1.0 [32mnot vulnerable[0m to heartbleed
+
+  [1;34mSupported Server Cipher(s):[0m
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[31mERROR: Could not resolve hostname musing-kalam-5194cc.netlify.com/.[0m
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[31mERROR: Could not resolve hostname musing-kalam-5194cc.netlify.com/.[0m
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[32mConnected to 107.154.147.172[0m
+
+Testing SSL server [32mcellstrat.com[0m on port [32m443[0m using SNI name [32mcellstrat.com[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+Server [32msupports[0m TLS Fallback SCSV
+
+  [1;34mTLS renegotiation:[0m
+Session renegotiation [32mnot supported[0m
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+TLS 1.2 [32mnot vulnerable[0m to heartbleed
+TLS 1.1 [32mnot vulnerable[0m to heartbleed
+TLS 1.0 [32mnot vulnerable[0m to heartbleed
+
+  [1;34mSupported Server Cipher(s):[0m
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[32mConnected to 45.60.97.172[0m
+
+Testing SSL server [32mcellstrat.com[0m on port [32m443[0m using SNI name [32mcellstrat.com[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+Server [32msupports[0m TLS Fallback SCSV
+
+  [1;34mTLS renegotiation:[0m
+Session renegotiation [32mnot supported[0m
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+TLS 1.2 [32mnot vulnerable[0m to heartbleed
+TLS 1.1 [32mnot vulnerable[0m to heartbleed
+TLS 1.0 [32mnot vulnerable[0m to heartbleed
+
+  [1;34mSupported Server Cipher(s):[0m
+Version: [32m1.11.13-static[0m
+OpenSSL 1.0.2-chacha (1.0.2g-dev)
+[0m
+[32mConnected to 45.60.97.172[0m
+
+Testing SSL server [32mcellstrat.com[0m on port [32m443[0m using SNI name [32mcellstrat.com[0m
+
+  [1;34mTLS Fallback SCSV:[0m
+Server [32msupports[0m TLS Fallback SCSV
+
+  [1;34mTLS renegotiation:[0m
+Session renegotiation [32mnot supported[0m
+
+  [1;34mTLS Compression:[0m
+Compression [32mdisabled[0m
+
+  [1;34mHeartbleed:[0m
+TLS 1.2 [32mnot vulnerable[0m to heartbleed
+TLS 1.1 [32mnot vulnerable[0m to heartbleed
+TLS 1.0 [32mnot vulnerable[0m to heartbleed
+
+  [1;34mSupported Server Cipher(s):[0m

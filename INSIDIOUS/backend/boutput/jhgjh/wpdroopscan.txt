@@ -1,0 +1,2 @@
+[+] Accepted redirect to https://musing-kalam-5194cc.netlify.com/
+[91m[+] It is possible that https://musing-kalam-5194cc.netlify.com/ is not running wordpress. If you disagree, please specify a --method.[0m

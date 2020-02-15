@@ -1,0 +1,29 @@
+
+Warning: Pycurl is not compiled against Openssl. Wfuzz might not work correctly when fuzzing SSL sites. Check Wfuzz's documentation for more information.
+
+
+[92m*******************************************************************
+*                                                                 *
+* | |_| |__   ___    /\  /\__ _ _ ____   _____  ___| |_ ___ _ __  *
+* | __| '_ \ / _ \  / /_/ / _` | '__\ \ / / _ \/ __| __/ _ \ '__| *
+* | |_| | | |  __/ / __  / (_| | |   \ V /  __/\__ \ ||  __/ |    *
+*  \__|_| |_|\___| \/ /_/ \__,_|_|    \_/ \___||___/\__\___|_|    *
+*                                                                 *
+* theHarvester Ver. 3.0.6                                         *
+* Coded by Christian Martorella                                   *
+* Edge-Security Research                                          *
+* cmartorella@edge-security.com                                   *
+*******************************************************************[94m
+
+
+found supported engines
+[-] Starting harvesting process for domain: musing-kalam-5194cc.netlify.com
+
+Full harvest on musing-kalam-5194cc.netlify.com
+[-] Searching in Google..
+	Searching 0 results...
+	Searching 100 results...
+	Searching 200 results...
+	Searching 300 results...
+	Searching 400 results...
+Search interrupted by user..

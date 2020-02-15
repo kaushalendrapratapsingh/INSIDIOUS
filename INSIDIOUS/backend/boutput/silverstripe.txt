@@ -1,0 +1,2 @@
+[+] Accepted redirect to http://www.cellstrat.com/
+[91m[+] It is possible that http://www.cellstrat.com/ is not running silverstripe. If you disagree, please specify a --method.[0m

@@ -1,0 +1,37 @@
+[*] Performing General Enumeration of Domain: musing-kalam-5194cc.netlify.com
+[!] Wildcard resolution is enabled on this domain
+[!] It is resolving to 157.230.45.115
+[!] All queries will resolve to this address!!
+[*] Checking for Zone Transfer for musing-kalam-5194cc.netlify.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA dns1.p04.nsone.net 198.51.44.4
+[*] Resolving NS Records
+[-] Could not Resolve NS Records
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 198.51.44.4
+[+] 198.51.44.4 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTIMP
+[*] Checking for Zone Transfer for musing-kalam-5194cc.netlify.com name servers
+[*] Resolving SOA Record
+[+] 	 SOA dns1.p04.nsone.net 198.51.44.4
+[*] Resolving NS Records
+[-] Could not Resolve NS Records
+[*] Removing any duplicate NS server IP Addresses...
+[*]  
+[*] Trying NS server 198.51.44.4
+[+] 198.51.44.4 Has port 53 TCP Open
+[-] Zone Transfer Failed!
+[-] Zone transfer error: NOTIMP
+[-] DNSSEC is not configured for musing-kalam-5194cc.netlify.com
+[*] 	 SOA dns1.p04.nsone.net 198.51.44.4
+[-] Could not Resolve NS Records for musing-kalam-5194cc.netlify.com
+[-] Could not Resolve MX Records for musing-kalam-5194cc.netlify.com
+[*] 	 A musing-kalam-5194cc.netlify.com 178.128.17.49
+[*] 	 AAAA musing-kalam-5194cc.netlify.com 2400:6180:0:d1::360:1001
+[*] Enumerating SRV Records
+[-] No SRV Records Found for musing-kalam-5194cc.netlify.com
+[+] 0 Records Found
+[*] Performing Google Search Enumeration
+[-] Google has detected the search as 'bot activity, stopping search...

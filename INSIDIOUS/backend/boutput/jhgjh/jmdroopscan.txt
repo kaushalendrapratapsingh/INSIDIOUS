@@ -1,0 +1,12 @@
+[+] Accepted redirect to https://musing-kalam-5194cc.netlify.com/
+[92m[+] Possible interesting urls found:[0m
+    This CMS&#x27; default changelog. - [94mhttps://musing-kalam-5194cc.netlify.com/joomla.xml[0m
+    Detailed version information. - [94mhttps://musing-kalam-5194cc.netlify.com/administrator/manifests/files/joomla.xml[0m
+    Login page. - [94mhttps://musing-kalam-5194cc.netlify.com/administrator/[0m
+    SimplePie README. - [94mhttps://musing-kalam-5194cc.netlify.com/libraries/simplepie/README.txt[0m
+    License file. - [94mhttps://musing-kalam-5194cc.netlify.com/LICENSE.txt[0m
+    Version attribute contains approx version - [94mhttps://musing-kalam-5194cc.netlify.com/plugins/system/cache/cache.xml[0m
+
+[+] No version found.
+
+[95m[+] Scan finished (0:00:05.724570 elapsed)[0m
